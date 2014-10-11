@@ -1,0 +1,10 @@
+body {
+  font-family:QuicksanBook, Helvetica, Arial, san-serif;
+  text-shadow:#101010 1px 1px 0px;
+  font-size:22px;
+  color: #DDD;
+  background-color:#f8f8f8;
+  background-image:url(img/background.png);
+  margin: 40px 0px 20px 50px;
+  padding: 0;
+}
