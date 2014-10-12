@@ -1,10 +1,83 @@
+a:active, a:focus {outline: 0;}
+
+a, a:visited {
+  color: #222;
+  font-family: QuicksandBold, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-bottom:1px solid #aaa;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom:none;
+}
+
 body {
   font-family:QuicksanBook, Helvetica, Arial, san-serif;
   text-shadow:#101010 1px 1px 0px;
-  font-size:22px;
+  font-size:26px;
   color: #DDD;
   background-color:#f8f8f8;
   background-image:url(img/background.png);
   margin: 40px 0px 20px 50px;
   padding: 0;
+}
+
+div.date {
+  font-size:11px;
+  text-align: right;
+  margin: 0px 20px 0px 0px;
+}
+
+div.post a {
+  color: #DDD;
+  font-family: QuicksandBold, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-bottom:1px solid #aaa;
+  text-decoration: none;
+}
+
+div.container {
+  margin:10px;
+}
+
+div.first {
+  margin:55px 0px 0px 0px;
+  line-height:
+}
+
+div.post {
+  margin:175px 0px 0px 0px;
+  line-height: 1.4;
+}
+
+div.text {
+  font-size:14px;
+  margin:10px 0px 0px 0px;
+  line-height:1.5em;
+}
+
+span.postdate, span.postdate a {
+  color: #666;
+  width: 100%;
+  font-size: 12px;
+}
+
+span.shorturl, span.shorturl a {
+  color: #666;
+  width: 100%;
+  font-size: 12px;
+  margin: 0px 0px 0px 10px;
+}
+
+blockquote {
+  padding: 20px;
+  border: 1px dashed #DDD;
+}
+
+img {
+  margin: 5px;
+}
+
+img.whiteframe {
+  border: solid 5px #FFF;
 }
