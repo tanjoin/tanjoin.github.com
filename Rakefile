@@ -40,15 +40,17 @@ namespace :wiki do
     paths = {}
     Dir.glob('*.html').each do |file|
       input_filename = File.basename(file)
-      indexes.push(input_filename)
-      paths[input_filename] = File.join('./' + input_filename)
+      index_name = File.basename(file, '.*')
+      indexes.push(index_name)
+      paths[index_name] = File.join('./' + input_filename)
     end
 
-    body = ''
+    body = '<div>'
     for index in indexes do
-      a_tag = '<a href="' + paths[index] + '">' + index + '</a> <br>'
+      a_tag = '<a href="' + paths[index] + '">' + index + '</a> &nbsp;'
       body += a_tag
     end
+    body += '</div>'
     File.write('./index.html', body)
   end
 
