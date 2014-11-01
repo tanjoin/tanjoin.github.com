@@ -28,9 +28,8 @@ namespace :wiki do
       dirname = File.dirname(file)
       output_filename = input_filename + '.html'
       output_filepath = File.join(dirname, output_filename)
-
       f = open(file)
-      File.write(output_filepath,markdown.render(f.read))
+      File.write(output_filepath, prefixBody() + markdown.render(f.read) + suffixBody())
       f.close
     end
   end
@@ -51,7 +50,39 @@ namespace :wiki do
       body += a_tag
     end
     body += '</div>'
-    File.write('./index.html', body)
+    File.write('./index.html', prefixBody() + body + suffixBody())
+  end
+
+  def prefixBody()
+    return '<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=790">
+<link rel="stylesheet" type="text/css" href="../index.css">
+<link rel="apple-touch-icon" href="./img/makietan@144.png" />
+<link rel="shortcut icon" href="./img/makietan@144.png" />
+<title>tanjo.in</title>
+<!-- GA -->
+<script>
+(function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
+ga(\'create\', \'UA-13243407-11\', \'auto\');
+ga(\'send\', \'pageview\');
+</script>
+</head>
+<body>
+'
+  end
+
+  def suffixBody()
+
+    return '
+</body>
+</html>
+'
   end
 
 end
