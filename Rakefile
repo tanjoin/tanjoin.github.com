@@ -4,6 +4,9 @@
 namespace :wiki do
   require 'redcarpet'
 
+  desc '更新'
+  task:update => ['wiki:md2Html', 'wiki:makeIndex']
+
   desc 'Markdown を Html に変換する'
   task:md2Html do
 	  cd 'wiki/' do
