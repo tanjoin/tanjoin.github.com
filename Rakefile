@@ -5,19 +5,40 @@ namespace :wiki do
   require 'redcarpet'
 
   desc '更新'
-  task:update => ['wiki:md2Html', 'wiki:makeIndex']
+  task:update => ['wiki:md2Html', 'wiki:makeIndex', 'wiki:moveWiki', 'wiki:removeHtml']
 
   desc 'Markdown を Html に変換する'
   task:md2Html do
-	  cd 'wiki/' do
+	  cd '_wiki/' do
 	    mdToHtml()
 	  end
   end
 
+  desc '_wiki から wiki に HTML を移動する'
+  task:moveWiki do
+    moveFile('_wiki/*.html', './wiki')
+  end
+
+  desc '_wiki から *.html を削除する'
+  task:removeHtml do
+    cd '_wiki/' do
+      FileUtils.rm(Dir.glob("*.html"))
+    end
+  end
+
   desc 'Index.html を作成する'
   task:makeIndex do
-    cd 'wiki/' do
+    cd '_wiki/' do
       makeIndexHtml()
+    end
+  end
+
+  def moveFile(pattern, dest)
+    Dir.glob(pattern).each do |file|
+      puts file
+      filename = File.basename(file)
+      FileUtils.mkdir_p(dest)
+      FileUtils.copy_file(file, File.join(dest, filename))
     end
   end
 
