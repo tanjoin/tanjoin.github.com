@@ -43,7 +43,7 @@ namespace :wiki do
   end
 
   def mdToHtml()
-    markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+    markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, :tables => true)
     Dir.glob('*.md').each do |file|
       input_filename = File.basename(file, '.*')
       dirname = File.dirname(file)
