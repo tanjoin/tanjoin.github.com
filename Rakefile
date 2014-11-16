@@ -67,7 +67,7 @@ namespace :wiki do
 
     body = '<div>'
     for index in indexes do
-      a_tag = '<a href="' + paths[index] + '">' + index + '</a> &nbsp;'
+      a_tag = '<span class="card"><a href="' + paths[index] + '">' + index + '</a></span>'
       body += a_tag
     end
     body += '</div>'
@@ -80,7 +80,8 @@ namespace :wiki do
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=790">
-<link rel="stylesheet" type="text/css" href="../index.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="../css/wiki.css">
 <link rel="apple-touch-icon" href="./img/makietan@144.png" />
 <link rel="shortcut icon" href="./img/makietan@144.png" />
 <title>tanjo.in</title>
