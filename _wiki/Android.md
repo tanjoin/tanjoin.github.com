@@ -1,5 +1,17 @@
 # Android
 
+## adb baackup
+
+Android 端末のバックアップを作成する
+
+```
+adb backup -all
+```
+
+### 参考
+
+- [adb backup で Android 端末のバックアップを作成する(2) - アンタイ・フォレンジック伝道者の独り言](http://port139.hatenablog.com/entry/2014/07/16/061644)
+
 ## Galaxy S3α
 
 ### インストールアプリ

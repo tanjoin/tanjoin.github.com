@@ -45,12 +45,13 @@ namespace :wiki do
   def mdToHtml()
     markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, :tables => true)
     Dir.glob('*.md').each do |file|
+      update = insertDays(file)
       input_filename = File.basename(file, '.*')
       dirname = File.dirname(file)
       output_filename = input_filename + '.html'
       output_filepath = File.join(dirname, output_filename)
       f = open(file)
-      File.write(output_filepath, prefixBody() + markdown.render(f.read) + suffixBody())
+      File.write(output_filepath, prefixBody() + markdown.render(f.read) + update + suffixBody())
       f.close
     end
   end
@@ -72,6 +73,10 @@ namespace :wiki do
     end
     body += '</div>'
     File.write('./index.html', prefixBody() + body + suffixBody())
+  end
+
+  def insertDays(file)
+    return '<br><p><strong>updated</strong> ' + File::mtime(file).strftime('%Y/%m/%d %H:%M') + '</p><br>'
   end
 
   def prefixBody()
