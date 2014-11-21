@@ -80,7 +80,7 @@ namespace :wiki do
   end
 
   def insertDays(file)
-    return ' <strong>updated:</strong> ' + File::mtime(file).strftime('%Y/%m/%d %H:%M') + '</p>'
+    return ' <strong>updated</strong> ' + File::mtime(file).strftime('%Y/%m/%d %H:%M') + '</p>'
   end
 
   def prefixBody()
