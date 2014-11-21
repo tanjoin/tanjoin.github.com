@@ -51,7 +51,7 @@ namespace :wiki do
       output_filename = input_filename + '.html'
       output_filepath = File.join(dirname, output_filename)
       f = open(file)
-      File.write(output_filepath, prefixBody() + markdown.render(f.read) + update + suffixBody())
+      File.write(output_filepath, prefixBody() + markdown.render(f.read) + topPageUrl() +update + suffixBody())
       f.close
     end
   end
@@ -75,8 +75,12 @@ namespace :wiki do
     File.write('./index.html', prefixBody() + body + suffixBody())
   end
 
+  def topPageUrl()
+    return '<hr><p><a href="http://tanjo.in">http://tanjo.in</a>&nbsp;&nbsp;&nbsp;'
+  end
+
   def insertDays(file)
-    return '<br><p><strong>updated</strong> ' + File::mtime(file).strftime('%Y/%m/%d %H:%M') + '</p><br>'
+    return ' <strong>updated:</strong> ' + File::mtime(file).strftime('%Y/%m/%d %H:%M') + '</p>'
   end
 
   def prefixBody()

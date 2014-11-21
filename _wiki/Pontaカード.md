@@ -16,10 +16,3 @@ GEO, SEGA, HMV
 [共通ポイントを使いこなせ　Pontaポイントをザクザク貯め、おトクに使う最強の利用方法　月刊Pontaの意外な使い方等 – ポイ探ニュース](http://www.poitan.jp/archives/6928)
 
 ###### *2014/11/05 - 14:06*
-
----
-
-[http://tanjo.in](http://tanjo.in)
-
-**created** 2014/11/05 - 14:06
-**updated** 2014/11/13 - 10:40

@@ -10,10 +10,3 @@
 - [(1) 「FireAlpaca用ビットマップブラシ素材【カケアミ】」/「紅羊」の漫画 [pixiv]](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=39470631)
 
 ###### *2014/11/08 - 18:47*
-
----
-
-[http://tanjo.in](http://tanjo.in)
-
-**created** 2014/11/08 - 18:47
-**updated** 2014/11/08 - 18:47

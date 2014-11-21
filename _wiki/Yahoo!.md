@@ -12,10 +12,3 @@ Yahoo! には解約という概念がないので全てが変更となる.
 ### Yahoo!ショッピング
 
 [Yahoo!ショッピング　ニュースクリップ](https://mail.shopping.yahoo.co.jp/newsclip/select)
-
----
-
-[http://tanjo.in](http://tanjo.in)
-
-**created** 2014/11/13 - 12:42
-**updated** 2014/11/13 - 12:42
