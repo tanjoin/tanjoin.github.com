@@ -4,6 +4,8 @@
 
 ### [au Wallet](http://www.au.kddi.com/au-id/au-wallet/)
 
+### <a href="http://www.au.kddi.com/au-id/au-wallet/pr/campaign/">au WALLET キャンペーン・特典一覧 | au</a>
+
 #### <a href="http://point.auone.jp/pointup/">au WALLET ポイントアップ店</a>
 
 - セブンイレブン : 2014/11/30 まで
@@ -53,7 +55,9 @@
 
 ###### *2014/11/02 - 2:56*
 
-### [じぶん銀行](http://www.jibunbank.co.jp/account/)
+## [じぶん銀行](http://www.jibunbank.co.jp/account/)
+
+### <a href="http://www.jibunbank.co.jp/interest_and_commission/commission/">手数料一覧（振込手数料など） | じぶん銀行</a>
 
 ### 口座開設申請
 
