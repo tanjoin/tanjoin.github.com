@@ -75,7 +75,7 @@ blockquote {
 }
 
 .aa {
-  font-family: "ＭＳ Ｐゴシック", "MS PGothic", "IPA モナー Pゴシック", "Mona";
+  font-family: 'MS PGothic','ＭＳ Ｐゴシック','Trebuchet MS',Verdana,Futura,Arial,Helvetica,sans-serif, "IPA モナー Pゴシック", "Mona";
   font-size  : 16px;
   line-height: 18px;
 　padding: 0 0 40px 15px;
