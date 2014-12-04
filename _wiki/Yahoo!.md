@@ -14,3 +14,5 @@ Yahoo! には解約という概念がないので全てが変更となる.
 [Yahoo!ショッピング　ニュースクリップ](https://mail.shopping.yahoo.co.jp/newsclip/select)
 
 [Yahoo! JAPAN - Yahoo! JAPAN からのおすすめ情報メール](http://osusume.yahoo.co.jp/subscribe.html?pid=shopping_new&hid=H0013550&kei=02&.scrumb=5qjYbKj5SxM)
+
+[Yahoo! JAPAN - Yahoo! JAPAN からのおすすめ情報メール](http://osusume.yahoo.co.jp/subscribe.html?pid=business&hid=H0013719&kei=01&.scrumb=oav.MlFkP3w)
