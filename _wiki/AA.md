@@ -92,6 +92,16 @@ l^l | | ｌ ,/) ／　／・＼　　／・＼　＼　　　 .ｎ<br>
 
 <br><br>
 <div class="aa">
+,＿_.,､＿,､　<br>
+(　 (´･ω･｀)　　<br>
+｀u-｀u--u′　<br>
+<br>
+l　　　|　i |　　　びょん<br>
+i　　|i　　ll<br>
+</div>
+
+<br><br>
+<div class="aa">
 </div>
 
 <!-- TEMPLATE

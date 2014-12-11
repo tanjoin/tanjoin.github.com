@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+  <body>
+    <form name="add_position">
+      <table>
+        <tr>
+          <td>
+            資本金　　　：
+          </td>
+          <td>
+            <input type="text" name="resource" value="1000000">
+          </td>
+          <td>
+            円
+          </td>
+        </tr>
+        <tr>
+          <td>
+            基準　　　　：
+          </td>
+          <td>
+            <input type="text" name="standard" value="100">
+          </td>
+          <td>
+            円
+          </td>
+        </tr>
+        <tr>
+          <td>
+            変化する範囲：
+          </td>
+          <td>
+            <input type="text" name="pips" value="100">
+          </td>
+          <td>
+            pips
+          </td>
+        </tr>
+        <tr>
+          <td>
+            金額　　　　：
+          </td>
+          <td>
+            <input type="text" name="money">
+          </td>
+          <td>
+            円
+          </td>
+        </tr>
+        <tr>
+          <td>
+            枚数（１万）：
+          </td>
+          <td>
+            <input type="text" name="maisu" value="10000">
+          </td>
+          <td>
+            円
+          </td>
+        </tr>
+        <tr>
+          <td>ポジション　：</td>
+          <td>
+            <input type="radio" name="position" value="kai" checked>買い
+            <input type="radio" name="position" value="uri" >売り
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <input type="button" value="更新" onClick="show_list()">
+            <input type="button" value="追加" onClick="add()">
+            <input type="reset" value="取消" onClick="clear()">
+          </td>
+        </tr>
+      </table>
+    </form>
+    損益計算
+    <div id="list">
+    </div>
+  </body>
+</html>
