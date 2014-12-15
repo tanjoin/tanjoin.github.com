@@ -1,0 +1,49 @@
+body {
+  width:80%;
+  margin:0 auto;
+  padding:0;
+  line-height:1.4;
+  color:#333;
+  font-family:'ヒラギノ明朝 Pro W3','Hiragino Mincho Pro','ＭＳ Ｐ明朝','MS PMincho',serif;
+}
+
+p {
+  font-size:0.9em;
+}
+
+header {
+  margin: 30px;
+  padding: 10px 0px;
+  border-bottom: solid 1px #CCC;
+}
+
+section {
+  margin: 10px 0px;
+}
+
+nav {
+  margin: 30px;
+}
+
+article {
+  margin:30px;
+}
+
+footer {
+  margin: 30px;
+  padding: 10px 0px;
+  border-top: solid 1px #CCC;
+}
+
+
+/* class */
+
+.indent1 {
+  margin:10px 10px;
+}
+
+.size1 {
+  font-size:0.7em;
+}
+
+/* id */
