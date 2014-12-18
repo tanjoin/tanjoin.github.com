@@ -107,3 +107,7 @@ adb backup -all
 - Google 翻訳
 - 麻雀 雷神
 - 無音カメラ
+
+## 参考
+
+- [Android開発を爆速にする10のコマンドラインスクリプト - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2014/12/17/182050)
