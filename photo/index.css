@@ -1,6 +1,5 @@
 .bg {
   background: url('img/20140817_135229_Android.jpg') no-repeat center center;
-  position: fixed;
   width: 100%;
   height: 250px; /*same height as jumbotron */
   top:0;
