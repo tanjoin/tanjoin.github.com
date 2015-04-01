@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html>
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" href="./img/makietan@144.png" />
   <link rel="shortcut icon" href="./img/makietan@144.png" />
-  <link rel="stylesheet" href="css/tanjoin.css">
   <script src="js/tanjoin.js"></script>
   <title>tanjo.in</title>
   <!-- // GA -->
@@ -26,60 +24,169 @@
     ga('send', 'pageview');
   </script>
   <!-- GA // -->
+  <title>tanjo.in</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 </head>
 
 <body>
-  <h1>tanjo.in</h1>
-  <ul>
-    <li>
-      <p>
-        <a href="creditcard.html">クレジットカード</a>
-      </p>
-    </li>
-    <li>
-      <p>
-        <a href="phone.html">携帯電話</a>
-      </p>
-    </li>
-    <li>
-      <p>
-        <a href="financialinstitution.html">銀行</a>
-      </p>
-      <ul>
+  <nav class="cyan" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">tanjo.in</a>
+      <!-- <ul class="right">
+        <li><a href="#">Navbar Link</a></li>
+      </ul> -->
+      <ul id="nav-mobile" class="side-nav" style="left: -250px;">
         <li>
-          <a href="financialinstitution.html#fx">FX</a>
+          <a href="index.html">TOP</a>
+          <li>
+            <ul>
+              <li><a href="#top">TOP</a></li>
+              <li><a href="#nenkan">年間行事</a></li>
+            </ul>
+          </li>
         </li>
+        <li><a href="campaign.html">キャンペーン</a></li>
+        <li><a href="details.html">明細</a></li>
+        <li><a href="404.html">404 Not Found</a></li>
       </ul>
-    </li>
-    <li>
-      <p>
-        <a href="taxpension.html">税金</a>
-      </p>
-      <ul>
-        <li>
-          <a href="taxpension.html#furusato">ふるさと納税</a>
-        </li>
-        <li>
-          <a href="taxpension.html#pension">年金</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p>
-        <a href="pointelectronicmoney.html">ポイント</a>
-      </p>
-      <ul>
-        <li>
-          <a href="pointelectronicmoney.html#electronicmoney">電子マネー</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p>
-        <a href="publicutilitiescharge.html">公共料金</a>
-      </p>
-    </li>
-  </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="section">
+      <h3>TOP</h3>
+      <div class="row" id="top">
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">明細</span>
+            </div>
+            <div class="card-action">
+              <a href="details.html">明細</a>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">キャンペーン</span>
+            </div>
+            <div class="card-action">
+              <a href="campaign.html">キャンペーン</a>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">ふるさと納税</span>
+              <h5>2割の方程式</h5>
+              <p>去年の額だと 75,342円 (FX を除く)</p>
+            </div>
+            <div class="card-action">
+              <a href="http://www.furusato-tax.jp/2015newrule.html">ふるさとチョイス</a>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">au</span>
+              <p>2015/04/15 までに MNPによる発射</p>
+              <p>もしくは自然消滅</p>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">Github</span>
+            </div>
+            <div class="card-action">
+              <a href="https://github.com/tanjo">tanjo</a>
+              <a href="https://github.com/tanjoin">tanjoin</a>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">プロバイダ</span>
+              <h5>BBエキサイト</h5>
+              <p>月額500円（6ヶ月間300円）</p>
+              <p>10月に契約（4月から月額500円）</p>
+              <p>2015年10月で最低利用期間終了</p>
+              <p>支払い : NTTグループカード</p>
+            </div>
+            <div class="card-action">
+              <a href="http://bb.excite.co.jp/">BBエキサイト</a>
+              <a href="http://www.ntt-card.com/">NTTグループカード</a>
+            </div>
+          </div>
+        </div>
+        <!-- card -->
+      </div>
+    </div>
+    <div class="section">
+      <h3>年間行事</h3>
+      <div class="row" id="nenkan">
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-image">
+                <img src="https://pbs.twimg.com/media/B9ko-95IcAEcZi3.jpg:orig">
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">革ブロ総決起集会 <i class="mdi-navigation-more-vert right"></i></span>
+              <p>2015/02/11</p>
+            </div>
+            <div class="card-action">
+              <a href="http://www.starchild.co.jp/artist/uesakasumire/news/" target="_blank">上坂すみれ</a>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">革ブロ総決起集会 <i class="mdi-navigation-close right"></i></span>
+              <h6>2015/02/11</h6>
+              <p>ypaaaaaaaa!!!!</p>
+              <p>すみぺにプレゼント貰った！</p>
+              <p>去年はタッチできたし最高！！</p>
+              <p>来年は...</p>
+            </div>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="card white darken-1">
+            <div class="card-content">
+              <span class="card-title grey-text text-darken-4">正月</span>
+              <h6>2015/01/01</h6>
+              <p>実家に帰ってダラダラして滝谷不動に初詣。</p>
+              <p>ちょっとだけ母方の祖母の家に行ってダラダラ。</p>
+            </div>
+            <div class="card-action">
+              <a href="http://www.jreast.co.jp/mobilesuica/e-ticket/" target="_blank">新幹線予約</a>
+              <a href="http://www.takidanifudouson.or.jp/" target="_blank">瀧谷不動明王寺-</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+
+    <div class="section">
+
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
+  <script type="text/javascript" src="js/index.js"></script>
 </body>
 
 </html>
