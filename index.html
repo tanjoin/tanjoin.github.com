@@ -38,12 +38,14 @@
         <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
         <li><a href="schedule.html">Schedule</a></li>
         <li><a href="google.html">Google</a></li>
+        <li><a href="hangout.html">Hangout</a></li>
       </ul>
       <ul id="mobile-demo" class="side-nav">
         <li><a href="index.html">TOP</a></li>
         <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
         <li><a href="schedule.html">Schedule</a></li>
         <li><a href="google.html">Google</a></li>
+        <li><a href="hangout.html">Hangout</a></li>
       </ul>
     </div>
   </nav>
@@ -63,7 +65,6 @@
           </div>
 
 
-
           <h3>Github</h3>
           <div id="tanjoin-github-account">
             <p>
@@ -72,12 +73,64 @@
             </p>
           </div>
 
+
+          <h3>Skill</h3>
+          <div id="tanjoin-skill">
+            <div class="collapsible-header">水泳</div>
+            <div class="collapsible-header">野球</div>
+            <div class="collapsible-header">高等学校教諭・一種免許状・教科（工業）</div>
+            <div class="collapsible-header">基本情報技術者</div>
+            <div class="collapsible-header">運転免許</div>
+            <div class="collapsible-body" style="display: block;">
+              <p>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">原動機付自転車免許（原付免許）</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">第一種普通自動車免許（普通免許）</a>
+              </p>
+            </div>
+            <div class="collapsible-header">Programming</div>
+            <div class="collapsible-body" style="display: block;">
+              <p>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">C/C++</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Objective-C (iOS)</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Java (Android)</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Node.js</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Javascript</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">CoffeeScript</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Rake</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Python</a>
+              </p>
+            </div>
+            <div class="collapsible-header">Microsoft Office</div>
+            <div class="collapsible-body" style="display: block;">
+              <p>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Word</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Excel</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">PowerPoint</a>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">OneNote</a>
+              </p>
+            </div>
+            <div class="collapsible-header">Google Docs</div>
+            <div class="collapsible-body" style="display: block;">
+              <p>
+                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Google SpreadSheet</a>
+              </p>
+            </div>
+            <!--
+              <li>
+                <div class="collapsible-header"></div>
+                <div class="collapsible-body"></div>
+              </li>
+              -->
+          </div>
+
+
           <h3>LINE</h3>
           <div id="tanjoin-line-account">
             <p>
               <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://line.me/ja/">tanjoin</a>
             </p>
           </div>
+
 
           <h3>剣と魔法のログレス いにしえの女神</h3>
           <div id="tanjoin-logres-account">
@@ -86,19 +139,22 @@
             </p>
           </div>
 
+
           <h3>パズドラ</h3>
           <div id="tanjoin-pad-account">
             <p>
               <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://pad.gungho.jp/member/">124,274,384</a>
             </p>
           </div>
-          
+
+
           <h3>モンスト</h3>
           <div id="tanjoin-monst-account">
             <p>
               <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://www.monster-strike.com/">481,243,338</a>
             </p>
           </div>
+
 
         </div>
       </div>
@@ -112,8 +168,14 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
 <script>
-    /* conatents of a small JavaScript file */
-    $(".button-collapse").sideNav();
+  /* conatents of a small JavaScript file */
+  $(".button-collapse").sideNav();
+
+  $(document).ready(function(){
+    $('.collapsible').collapsible({
+      accordion : false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+    });
+  });
 </script>
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
