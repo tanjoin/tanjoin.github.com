@@ -55,41 +55,15 @@
 
   <div class="section">
     <div class="container">
-      <div class="row" id="profile">
+      <div class="row" id="daily">
         <div class="col s12 m12 l12">
 
-          <h2>Hospital</h2>
-
-          <h3><a href="http://mita.iuhw.ac.jp/">国際医療福祉大学三田病院</a></h3>
-          <div id="tanjoin-hospital-mita">
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://goo.gl/maps/n1Uy1">地図</a> &nbsp;
-            </p>
-          </div>
-
-          <h3><a href="http://www.toranomon.gr.jp/">虎の門病院</a></h3>
-          <div id="tanjoin-hospital-tranomon">
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href=""></a> &nbsp;
-            </p>
-          </div>
-
-          <h3><a href="http://www.ikeda-shika.jp/">池田歯科医院</a></h3>
-          <div id="tanjoin-dental-ikeda">
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://goo.gl/maps/JvwgJ">地図</a> &nbsp;
-            </p>
-          </div>
-
-
-
-          <h2>Restaurant</h2>
-
-          <h3></h3>
-          <div id="tanjoin-">
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href=""></a> &nbsp;
-            </p>
+          <h3>8:00</h3>
+          <div id="tanjoin-0800">
+            <p>ポイントサイト周回</p>
+            <a href="http://ecnavi.jp/vote/choice/" target="_blank">ECナビ - おしえて！どっち？</a>
+            <a href="http://point.recruit.co.jp/doc/campaign/point_roulette/" target="_blank">【ポンパレモール限定ポイント】ポイントルーレットキャンペーン-リクルートポイント</a>
+            <a href="http://toku.yahoo.co.jp/" target="_blank">Yahoo!ズバトク</a>
           </div>
 
         </div>
@@ -104,8 +78,14 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 <script>
-    /* conatents of a small JavaScript file */
-    $(".button-collapse").sideNav();
+  /* conatents of a small JavaScript file */
+  $(".button-collapse").sideNav();
+
+  $(document).ready(function() {
+    $('.collapsible').collapsible({
+      accordion: false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+    });
+  });
 </script>
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
