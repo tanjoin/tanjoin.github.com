@@ -38,47 +38,45 @@
         <li><a href="index.html">TOP</a></li>
         <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
         <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="google.html">Google</a></li>
         <li><a href="hangout.html">Hangout</a></li>
         <li><a href="phone.html">Phone</a></li>
-        <li><a href="method.html">Method</a></li>
+        <li><a href="wiki/index.html">Wiki</a></li>
       </ul>
       <ul id="mobile-demo" class="side-nav">
         <li><a href="index.html">TOP</a></li>
         <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
         <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="google.html">Google</a></li>
         <li><a href="hangout.html">Hangout</a></li>
         <li><a href="phone.html">Phone</a></li>
-        <li><a href="method.html">Method</a></li>
+        <li><a href="wiki/index.html">Wiki</a></li>
       </ul>
     </div>
   </nav>
 
   <div class="section">
     <div class="container">
-      <div class="row" id="google">
+      <div class="row" id="wiki">
+
         <div class="col s12 m12 l12">
-
-
-          <h3>Google Service</h3>
-          <div id="google-service">
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://www.google.co.jp/">Google</a>
-            </p>
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://www.google.com/webmasters/tools/mobile-friendly/?hl=ja">モバイル フレンドリー テスト</a>
-            </p>
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insights</a>
-            </p>
-            <p>
-              <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://maps.google.com/locationhistory/b/1/?redirect=ulfe">Googleロケーション履歴</a>
-            </p>
+          <div class="card white">
+            <div class="card-content">
+              <h5>三井住友銀行の無料回数を確認する</h5>
+              <div id="tanjoin-mitsuisumitomo-pointback">
+                <ul>
+                  <li>当行本支店ATMでのATM時間外手数料</li>
+                  <li>コンビニ・ゆうちょ銀行ATMでのATM時間外手数料・利用手数料（今月、無料でご利用いただける残りの回数）</li>
+                </ul>
+              </div>
+            </div>
+            <div class="card-action">
+              <a href="https://direct3.smbc.co.jp/servlet/com.smbc.SUPRedirectServlet" target="_blank">SMBCポイントパック</a>
+            </div>
+            <div class="card-action">
+              <a href="http://www.smbc.co.jp/index.html" target="_blank">三井住友銀行</a>
+            </div>
           </div>
-
-
         </div>
+
       </div>
     </div>
   </div>
@@ -90,8 +88,14 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 <script>
-    /* conatents of a small JavaScript file */
-    $(".button-collapse").sideNav();
+  /* conatents of a small JavaScript file */
+  $(".button-collapse").sideNav();
+
+  $(document).ready(function() {
+    $('.collapsible').collapsible({
+      accordion: false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+    });
+  });
 </script>
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
