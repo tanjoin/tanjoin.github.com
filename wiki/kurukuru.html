@@ -9,6 +9,7 @@
   <!-- Icon -->
   <link rel="apple-touch-icon" href="./img/makietan@144.png" />
   <link rel="shortcut icon" href="./img/makietan@144.png" />
+  <link href="./css/kurukuru.css" rel="stylesheet" type="text/css">
   <title>tanjo.in</title>
 
   <!-- // GA -->
@@ -56,26 +57,9 @@
   <div class="section">
     <div class="container">
       <div class="row" id="wiki">
-        <div class="col s12 m12 l12">
-
-          <div id="tanjoin-wiki">
-            <p>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="amazon.html">Amazon.co.jp</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="communication.html">コミュニケーション</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="ec_navi.html">ECナビ</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="furusato_nozei.html">ふるさと納税</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="google.html">Google</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="lucky_touch.html">ラッキータッチ</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="mitsui_sumitomo.html">三井住友銀行</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="nanaco.html">nanaco</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="ponparemall.html">ポンパレモール</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="ponta.html">Ponta</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="t_point.html">Tポイント</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="view_card.html">ビューカード</a>
-              <a style="margin:5px;" class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="kurukuru.html">くるくる</a>
-            </p>
-          </div>
-          
+        <div id="field" class="col s12 m12 l12">
+          <h1>くるくる</h1>
+          <img id="kurukuru" class="load" src="./img/3e199cd98490dd5e4a3e04bbb49b4054.png" alt="3e199cd98490dd5e4a3e04bbb49b4054" title="3e199cd98490dd5e4a3e04bbb49b4054" width="78" height="68" />
         </div>
       </div>
     </div>
@@ -93,6 +77,15 @@
         accordion: false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
       });
     });
+
+    $("#kurukuru").hover(
+      function() {
+        $(this)
+        .mouseover(function () { $(this).css("-webkit-animation-play-state", "paused"); })
+        .mouseout(function () { $(this).css("-webkit-animation-play-state", "running"); })
+      }
+    )
+
   </script>
   <!-- CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
