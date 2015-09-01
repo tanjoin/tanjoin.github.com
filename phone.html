@@ -222,6 +222,98 @@
           </div>
         </div>
 
+        <div class="col s12 m12 l12">
+          <div class="card white">
+            <div class="card-content">
+              <h5>mineo (docomo)</h5>
+              <div class="kaiyakuday" year="2015" month="10" day="1" endYear="2016" endMonth="6" endDay="30"></div>
+              <div id="tanjoin-mineo-docomo">
+                <p style="color:red;">未確定</p>
+                <p>ルーターに使用</p>
+                <p>
+                  MNP 予定なし. 6月30日に解約予定
+                </p>
+                <p>手数料: <a href="http://www.yodobashi.com/%E3%82%B1%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%82%B3%E3%83%A0-K-OPTI-COM-mineo-%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/pd/100000001002612616/">ヨドバシ.com - ケイ・オプティコム K-OPTI.COM mineo エントリーパッケージ【無料配達】</a></p>
+                <div class="section scrollspy">
+                  <table class="size1 hoverable bordered" border="1" cellspacing="0" cellpadding="5">
+                    <tr>
+                      <td>Dプラン シングルタイプ 3GB</td>
+                      <td align="right">900</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        複数回線割
+                      </td>
+                      <td align="right">
+                        -50
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        ドコモ回線プラン スタート記念キャンペーン
+                      </td>
+                      <td align="right">
+                        -800
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>合計</td>
+                      <td align="right">50</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col s12 m12 l12">
+          <div class="card white">
+            <div class="card-content">
+              <h5>mineo (au)</h5>
+              <div class="kaiyakuday" year="2015" month="10" day="1" endYear="2016" endMonth="6" endDay="30"></div>
+              <div id="tanjoin-mineo-docomo">
+                <p style="color:red;">未確定</p>
+                <p>ルーターに使用</p>
+                <p>
+                  MNP 予定なし. 6月30日に解約予定
+                </p>
+                <p>手数料: <a href="http://www.yodobashi.com/%E3%82%B1%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%82%B3%E3%83%A0-K-OPTI-COM-mineo-%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/pd/100000001002612616/">ヨドバシ.com - ケイ・オプティコム K-OPTI.COM mineo エントリーパッケージ【無料配達】</a></p>
+                <div class="section scrollspy">
+                  <table class="size1 hoverable bordered" border="1" cellspacing="0" cellpadding="5">
+                    <tr>
+                      <td>
+                        Aプラン シングルタイプ 3GB
+                      </td>
+                      <td align="right">900</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        複数回線割
+                      </td>
+                      <td align="right">
+                        -50
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        ドコモ回線プラン スタート記念キャンペーン
+                      </td>
+                      <td align="right">
+                        -800
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>合計</td>
+                      <td align="right">50</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
         <div class="col s12 m12 l12">
           <div class="card white">
@@ -265,6 +357,27 @@
       var sinceDay = Math.floor(since / (1000 * 60 * 60 * 24));
 
       var deadline = mnpDate - buyDate;
+      var deadlineDay = Math.floor(deadline / (1000 * 60 * 60 * 24));
+
+      $(this).html('<div>あと ' + (deadlineDay - sinceDay) + '日</div> <div class="progress"><div class="determinate" style="width: ' + (since / deadline * 100) + '%"></div></div>');
+    });
+
+    $(".kaiyakuday").each(function() {
+      var year = $(this).attr("year");
+      var month = $(this).attr("month");
+      var day = $(this).attr("day");
+      var endYear = $(this).attr("endYear");
+      var endMonth = $(this).attr("endMonth");
+      var endDay = $(this).attr("endDay");
+
+      var buyDate = new Date(year, (month - 1) % 13, day);
+      var kaiyakuDate = new Date(endYear, (endMonth - 1 % 13), endDay);
+      var now = new Date();
+
+      var since = now - buyDate;
+      var sinceDay = Math.floor(since / (1000 * 60 * 60 * 24));
+
+      var deadline = kaiyakuDate - buyDate;
       var deadlineDay = Math.floor(deadline / (1000 * 60 * 60 * 24));
 
       $(this).html('<div>あと ' + (deadlineDay - sinceDay) + '日</div> <div class="progress"><div class="determinate" style="width: ' + (since / deadline * 100) + '%"></div></div>');
