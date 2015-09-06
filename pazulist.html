@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Let's tanjoin!">
+  <!-- Icon -->
+  <link rel="apple-touch-icon" href="./img/makietan@144.png" />
+  <link rel="shortcut icon" href="./img/makietan@144.png" />
+  <title>tanjo.in</title>
+
+  <!-- // GA -->
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-13243407-11', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <!-- GA // -->
+</head>
+
+<body>
+  <nav>
+    <div class="nav-wrapper light-blue darken-1">
+      <a href="#!" class="brand-logo center">tanjo.in</a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+      <ul class="left hide-on-med-and-down">
+        <li><a href="index.html">TOP</a></li>
+        <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
+        <li><a href="daily.html">Daily</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="phone.html">Phone</a></li>
+        <li><a href="wiki/index.html">Wiki</a></li>
+      </ul>
+      <ul id="mobile-demo" class="side-nav">
+        <li><a href="index.html">TOP</a></li>
+        <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
+        <li><a href="daily.html">Daily</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="phone.html">Phone</a></li>
+        <li><a href="wiki/index.html">Wiki</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="section">
+    <div class="container">
+      <div class="row" id="pazulist">
+        <canvas id="canvas" width="460" height="640"></canvas>
+        <script>
+
+        var param = param();
+        var monsters = getMonsters();
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+
+        function param() {
+          var arg = new Object;
+          if (!arg) {
+            return;
+          }
+          var pair=location.search.substring(1).split('&');
+          for(var i=0;pair[i];i++) {
+            var kv = pair[i].split('=');
+            arg[kv[0]]=kv[1];
+          }
+          return arg;
+        }
+
+        function getMonsters() {
+          if (param.length > 0) {
+            var checked = param["checked"];
+            return checked.split(',');
+          }
+          return [];
+        }
+
+        function showImage(id, n) {
+          var img = new Image();
+          // img.crossOrigin = 'Anonymous';
+          imageUrl = "http://img.pd.appbank.net/i/mim/" + id + ".jpg";
+          img.src = imageUrl;
+
+          var row = parseInt(n / 5);
+          var col = n % 5;
+
+          img.onload = function() {
+            ctx.drawImage(img, row * 90, col * 90);
+          }
+        }
+
+        function fillBackground() {
+          ctx.fillStyle = "rgb(127,127,127)";
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+        }
+
+        function saveImage() {
+          var png = canvas.toDataURL();
+          document.getElementById("newImg").src = png;
+        }
+
+        function onClick(e) {
+          addMonster(2272);
+
+          var rect = e.target.getBoundingClientRect();
+          var x = e.clientX - rect.left;
+          var y = e.clientY - rect.top;
+          drawCircle(x, y);
+        }
+
+        function drawCircle(x, y) {
+          ctx.beginPath();
+          ctx.arc(x, y, 50, 0, 2 * Math.PI);
+          ctx.stroke();
+        }
+
+        function addMonster(id) {
+          monsters.push(id);
+          if (document.URL.indexOf("about:blank") == -1) {
+            var nowurl = document.URL;
+            if(nowurl.match(/[\?&]abc/)) {
+              location = location.href.replace(/\?.*$/,"");
+            }
+            if(nowurl.match(/\?/)) {
+              location.href= nowurl + '&checked=' + monsters.join();
+            } else {
+             location.href= nowurl + '?checked=' + monsters.join();
+            }
+          }
+        }
+
+        function deleteMOnster(id) {
+          monsters.some(function(v, i) {
+            if (v==id) monsters.splice(i, 1);
+          })
+          if (document.URL.indexOf("about:blank") == -1) {
+            var nowurl = document.URL;
+            if(nowurl.match(/[\?&]abc/)) {
+              location = location.href.replace(/\?.*$/,"");
+            }
+            if(nowurl.match(/\?/)) {
+              location.href= nowurl + '&checked=' + monsters.join();
+            } else {
+             location.href= nowurl + '?checked=' + monsters.join();
+            }
+          }
+        }
+
+        fillBackground();
+        showImage(2272, 0);
+        showImage(2272, 1);
+        showImage(2272, 2);
+
+        canvas.addEventListener('click', onClick, false);
+
+        </script>
+
+        <br>
+
+        <!-- <input type="button" value="保存する" onclick="saveImage()">
+
+        <div id="image">
+          <p>結果画像</p>
+          <img id="newImg">
+        </div> -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+  <script>
+      /* conatents of a small JavaScript file */
+      $(".button-collapse").sideNav();
+
+      $(document).ready(function(){
+        // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+        $('.modal-trigger').leanModal();
+      });
+  </script>
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+
+</body>
+
+</html>
