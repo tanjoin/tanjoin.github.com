@@ -56,57 +56,15 @@
   <div class="section">
     <div class="container">
       <div class="row" id="wiki">
-
-        <h1>リクルートカード (VISA)</h1>
-
         <div class="col s12 m12 l12">
 
-          <div class="card white">
-            <div class="card-action">
-              <a href="https://www2.cr.mufg.jp/newsplus/" target="_blank">ホーム｜NEWS+PLUS（ニュースプラス）｜三菱UFJニコス</a>
-            </div>
-          </div>
+          <h3>でんき家計簿</h3>
 
-          <div class="card white">
-            <div class="card-action">
-              <a href="https://www2.mufgcard.com/inet/dy/index.html">MUFGカードWEBサービス</a>
-            </div>
-          </div>
-
-          <div class="card white">
-            <div class="card-action">
-              <a href="https://www2.cr.mufg.jp/newsplus/campaign">キャンペーン</a>
-            </div>
-          </div>
-
-          <div class="card white">
-            <div class="card-action">
-              <a href="https://www2.cr.mufg.jp/newsplus/campaign_coupon_completed.html">登録済みキャンペーンクーポン</a>
-            </div>
-          </div>
-
-          <div class="card white">
-            <div class="card-content">
-              <h5>キャッシュバック案件</h5>
-              <div id="tanjoin-recruit-card-visa-cashback">
-                <p>
-                  登録型リボ「楽Ｐａｙ」
-                </p>
-                <p>
-                  申し込みのため登録 (上限10万円) ※ポイントは2015年9月中旬頃に加算。
-                </p>
-                <p>
-                  ※キャンペーン期間終了後、ポイント加算までに「楽Ｐａｙ」を1度でも解除された方は対象外です。
-                </p>
-              </div>
-            </div>
-            <div class="card-action">
-              <a target="_blank" href="https://www2.cr.mufg.jp/newsplus/campaign/c03/20150202_1.html">キャンペーン</a>
-            </div>
+          <div id="tanjoin-denki-kakebo">
+            <a href="https://www.kakeibo.tepco.co.jp/dk/aut/login/" target="_blank">でんき家計簿　ログイン</a>
           </div>
 
         </div>
-
       </div>
     </div>
   </div>
@@ -120,6 +78,12 @@
 <script>
   /* conatents of a small JavaScript file */
   $(".button-collapse").sideNav();
+
+  $(document).ready(function() {
+    $('.collapsible').collapsible({
+      accordion: false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+    });
+  });
 </script>
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
