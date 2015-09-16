@@ -1,10 +1,9 @@
 <html>
 <head>
-<meta charset="shift-jis">
 <script type="text/javascript"><!--
    function ShowLength( str ) {
-      document.getElementById("titleview_inputlength").innerHTML = str.length + "ï¿½ï¿½ï¿½ï¿½";
-      document.getElementById("inputlength").innerHTML = str.length + "ï¿½ï¿½ï¿½ï¿½";
+      document.getElementById("titleview_inputlength").innerHTML = str.length + "•¶Žš";
+      document.getElementById("inputlength").innerHTML = str.length + "•¶Žš";
       var num = parseInt(document.getElementById("maxinput").value);
       if(str.length > num){
          document.getElementById("inputlength").style.color = "red";
@@ -12,11 +11,11 @@
          document.getElementById("inputlength").style.color = "white";
       }
    }
-
+   
    function EditNum(){
      var str = document.getElementById("editor").value;
-     document.getElementById("titleview_inputlength").innerHTML = str.length + "ï¿½ï¿½ï¿½ï¿½";
-      document.getElementById("inputlength").innerHTML = str.length + "ï¿½ï¿½ï¿½ï¿½";
+     document.getElementById("titleview_inputlength").innerHTML = str.length + "•¶Žš";
+      document.getElementById("inputlength").innerHTML = str.length + "•¶Žš";
       var num = parseInt(document.getElementById("maxinput").value);
       if(str.length > num){
          document.getElementById("inputlength").style.color = "red";
@@ -24,18 +23,18 @@
          document.getElementById("inputlength").style.color = "white";
       }
    }
-
+   
 // --></script>
-<title id="titleview_inputlength">0ï¿½ï¿½ï¿½ï¿½</title>
+<title id="titleview_inputlength">0•¶Žš</title>
 </head>
 <body style="color:white;background-color:black;">
  <div align=center >
   <div style="width:800px; margin-top:20px;">
-   <textarea id="title" style="font-size:larger;color:white;background-color:transparent;border-color:black;border-bottom-color:white;" cols="100" rows="1">ï¿½^ï¿½Cï¿½gï¿½ï¿½</textarea>
+   <textarea id="title" style="font-size:larger;color:white;background-color:transparent;border-color:black;border-bottom-color:white;" cols="100" rows="1">ƒ^ƒCƒgƒ‹</textarea>
    <p align=left style="font-size:smaller;color:white;background-color:transparent;" >
-    <span id="inputlength">0ï¿½ï¿½ï¿½ï¿½</span>ï¿½@/ï¿½@
+    <span id="inputlength">0•¶Žš</span>@/@
     <input id="maxinput" type="text" size="1" istyle=4 style="font-size:larger;color:white;background-color:transparent;border-color:black;border-bottom-color:white;" onblur="EditNum()">
-    ï¿½ï¿½ï¿½ï¿½
+    •¶Žš
    </p>
    <textarea id="editor" style="font-size:larger;color:white;background-color:transparent;" cols="100" rows="50" onkeyup="ShowLength(value);"></textarea>
   </div>

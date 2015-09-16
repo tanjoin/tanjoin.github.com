@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="Shift-JIS">
+<meta charset="utf-8">
 <title>クリック</title>
 <style type="text/css">
 #main {
@@ -117,12 +117,12 @@ serif[29] = "誰か絵とセリフくれ";
 
 // クリックされたとき
 function click(){
-
+  
   // 絵フィールドとテキストフィールド
   var p = document.getElementById("pic");
   var t = document.getElementById("text");
-
-
+  
+  
   p.innerHTML = "<a href=\"Javascript:click()\"><img src=\""+ img[count % img.length] +"\" width=\"256\" height=\"384\"></a>";
   t.innerHTML = serif[count % serif.length];
   count++;

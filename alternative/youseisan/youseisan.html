@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="shift-jis">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 <link rel="stylesheet" href="youseisan.css">
-<title>ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</title>
+<title>—d¸‚³‚ñ</title>
 <script language="JavaScript">
 <!--
 var mainImg, ctx, txt;
@@ -15,20 +14,20 @@ onload = function() {
  text   = document.getElementById('textC');
  if( ! canvas || ! canvas.getContext ) { return false; }
  ctx = canvas.getContext('2d');
-
+ 
  if( ! text || ! text.getContext ) { return false; }
  txt = text.getContext('2d');
 
- // ï¿½æ‘œï¿½ï¿½ï¿½[ï¿½h
+ // ‰æ‘œƒ[ƒh
  mainImg = new Image();
  mainImg.src = "./youseisan.png";
 
  mainImg.onload = function(){
    ctx.drawImage(mainImg, 0, 0);
  }
-
+ 
  ctx.font = "20pt Helvetica";
- txt.fillText("ï¿½Nï¿½ï¿½ï¿½Xï¿½Å[ï¿½ï¿½",5, 10);
+ txt.fillText("ƒNƒŠƒX‚Å[‚·",5, 10);
 
 
 };
