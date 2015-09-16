@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="Shift_JIS">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 <link rel="stylesheet" href="youseisan.css">
 <title>妖精さん</title>
@@ -14,7 +15,7 @@ onload = function() {
  text   = document.getElementById('textC');
  if( ! canvas || ! canvas.getContext ) { return false; }
  ctx = canvas.getContext('2d');
- 
+
  if( ! text || ! text.getContext ) { return false; }
  txt = text.getContext('2d');
 
@@ -25,7 +26,7 @@ onload = function() {
  mainImg.onload = function(){
    ctx.drawImage(mainImg, 0, 0);
  }
- 
+
  ctx.font = "20pt Helvetica";
  txt.fillText("クリスでーす",5, 10);
 
