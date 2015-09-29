@@ -5,6 +5,7 @@ Index
 ------
 - [Account](account.html)
 - [Blog](http://tanjoin.hatenablog.com/)
+- [Hangout](hangout.html)
 - [Phone](phone.html)
 - [Profile](profile.html)
 - [TODO](https://twitter.com/makietan/timelines/412891665209106432)
