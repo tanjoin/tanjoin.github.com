@@ -1,3 +1,8 @@
+# encoding: utf-8
+require 'redcarpet'
+require 'fileutils'
+
+HEADER = <<-EOS
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,17 +18,30 @@
   <title>tanjo.in</title>
 </head>
 <body>
-<h1>tanjo.in</h1>
+EOS
 
-<h2>Index</h2>
-
-<ul>
-<li><a href="account.html">Account</a></li>
-<li><a href="profile.html">Profile</a></li>
-</ul>
+FOOTER = <<-EOS
   <!-- Common Scripts -->
   <script type="text/javascript" src="js/common.js"></script>
   <!-- GA -->
   <script type="text/javascript" src="js/ga.js"></script>
 </body>
 </html>
+EOS
+
+markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML,
+  autolink: true,
+  tables: true,
+  fenced_code_blocks: true,
+  highlight: true,
+)
+
+FileUtils.rm(Dir.glob("../*.html"))
+
+Dir.glob("../.md/*.md") { |path|
+  base_filename = path.split("/").last.encode("utf-8").split(".").first
+  html_filename = base_filename + ".html"
+  html_file_path = Dir.pwd.gsub(/.ruby/, html_filename)
+  html = markdown.render File.read(path)
+  File.open(html_file_path, "w:utf-8") { |f| f.print HEADER + html + FOOTER }
+}
