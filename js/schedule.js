@@ -1,4 +1,4 @@
-$(window).load(function(){
+$(document).ready(function(){
   $('h2').each(function() {
     if (new Date() < new Date($(this).text())) {
       $(this).css("color", "#DDDDDD")

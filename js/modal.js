@@ -1,4 +1,4 @@
-$(window).load(function(){
+$(document).ready(function(){
   $('a').each(function() {
     var a_tag = $(this);
     var href = $(this).attr('href').substr(1);
