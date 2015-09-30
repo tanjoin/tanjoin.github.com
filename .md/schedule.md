@@ -72,8 +72,8 @@ i☆Ris と すみぺ というアーティストでお腹いっぱいになる�
 - Edy
 - nanaco
 
-2015/10/19 12:00 〜
--------------------
+2015/10/19 12:00
+----------------
 
 ### 秋の植え付け祭のチケット発券
 
@@ -516,3 +516,4 @@ ypaaaaaaaa!!!!
 <link rel="stylesheet" href="css/modal.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="js/modal.js"></script>
+<script type="text/javascript" src="js/schedule.js"></script>
