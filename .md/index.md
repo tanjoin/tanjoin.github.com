@@ -5,6 +5,7 @@ Index
 ------
 - [Account](account.html)
 - [Blog](http://tanjoin.hatenablog.com/)
+- [Goal](goal.html)
 - [Hangout](hangout.html)
 - [Phone](phone.html)
 - [Profile](profile.html)

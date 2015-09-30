@@ -14,16 +14,16 @@ HEADER = <<-EOS
   <link rel="apple-touch-icon" href="./img/makietan@144.png" />
   <link rel="shortcut icon" href="./img/makietan@144.png" />
   <!-- CSS -->
-  <link rel="stylesheet" href="css/githubtheme.css">
+  <link rel="stylesheet" href="css/common.css">
   <title>tanjo.in</title>
 </head>
 <body>
+  <div class="contents">
 EOS
 
 FOOTER = <<-EOS
-  <!-- jQuery -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <!-- Common Scripts -->
+  </div>
+  <!-- JS -->
   <script type="text/javascript" src="js/common.js"></script>
   <!-- GA -->
   <script type="text/javascript" src="js/ga.js"></script>
