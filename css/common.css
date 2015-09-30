@@ -1,3 +1,14 @@
+/* Amazon Associate */
+.amazon-associate {
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+  margin: 0px 10px 10px 0px;
+  padding: 10px;
+  max-width: 680px;
+  width: 100%;
+}
+
+/* Github Design */
+
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
