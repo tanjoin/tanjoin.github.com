@@ -4,6 +4,7 @@ Account
 Amazon.co.jp
 ------------
 [Wishlist](http://goo.gl/O2Hoz)
+[Wishlist(X'mas)](http://www.amazon.co.jp/registry/wishlist/3LQEO5V6BA7U0/ref=cm_sw_r_tw_ws_QUKMub1HQSF30)
 
 Game
 ----
@@ -19,6 +20,9 @@ Game
 
 ### 剣と魔法のログレス いにしえの女神
 412-804-169
+
+### Nintendo Friend Code
+5000-2789-1196 [FYI](https://pbs.twimg.com/media/BxqXfTlCcAAb1R5.jpg)
 
 Github
 ------
