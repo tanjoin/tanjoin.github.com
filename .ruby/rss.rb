@@ -20,8 +20,8 @@ if raw.length > 0 then
   }
 
   if htmls.length > 0 then
-    rss = RSS::Maker.make("1.0") { |maker|
-      maker.channel.about = 'https://tanjo.in/rss.rdf'
+    rss = RSS::Maker.make("2.0") { |maker|
+      maker.channel.about = 'https://tanjo.in/rss.xml'
       maker.channel.title = 'tanjoin'
       maker.channel.description = 'tanjoin の RSS です'
       maker.channel.link = 'http://tanjo.in'
@@ -34,16 +34,15 @@ if raw.length > 0 then
         maker.items.new_item { |item|
           item.link = 'http://tanjo.in/' + file
           item.title = file
-          item.description = 'hoge'
           item.date = Time.now
         }
       }
 
-      make.image.title = 'makietan'
-      make.image.url = 'http://tanjo.in/img/makietan@144.png'
-
-      File.write('../rss.rdf', rss)
+      maker.image.title = 'makietan'
+      maker.image.url = 'http://tanjo.in/img/makietan@144.png'
     }
+
+    File.write('../rss.xml', rss)
   else
     puts 'No Updates'
   end

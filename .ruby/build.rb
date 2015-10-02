@@ -15,6 +15,9 @@ HEADER = <<-EOS
   <link rel="shortcut icon" href="./img/makietan@144.png" />
   <!-- CSS -->
   <link rel="stylesheet" href="css/common.css">
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" href="rss.xml" />
+
   <title>tanjo.in</title>
 </head>
 <body>

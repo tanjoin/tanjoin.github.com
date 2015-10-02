@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>tanjoin</title>
+    <link>http://tanjo.in</link>
+    <description>tanjoin の RSS です</description>
+    <language>ja</language>
+    <image>
+      <url>http://tanjo.in/img/makietan@144.png</url>
+      <title>makietan</title>
+      <link>http://tanjo.in</link>
+    </image>
+    <item>
+      <title>tax.html</title>
+      <link>http://tanjo.in/tax.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.161916+09:00</dc:date>
+    </item>
+    <item>
+      <title>songs.html</title>
+      <link>http://tanjo.in/songs.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.161461+09:00</dc:date>
+    </item>
+    <item>
+      <title>schedule.html</title>
+      <link>http://tanjo.in/schedule.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.161015+09:00</dc:date>
+    </item>
+    <item>
+      <title>profile.html</title>
+      <link>http://tanjo.in/profile.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.160464+09:00</dc:date>
+    </item>
+    <item>
+      <title>phone.html</title>
+      <link>http://tanjo.in/phone.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.159985+09:00</dc:date>
+    </item>
+    <item>
+      <title>index.html</title>
+      <link>http://tanjo.in/index.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.159532+09:00</dc:date>
+    </item>
+    <item>
+      <title>iamge.html</title>
+      <link>http://tanjo.in/iamge.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.15894+09:00</dc:date>
+    </item>
+    <item>
+      <title>hangout.html</title>
+      <link>http://tanjo.in/hangout.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.158491+09:00</dc:date>
+    </item>
+    <item>
+      <title>goal.html</title>
+      <link>http://tanjo.in/goal.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.158036+09:00</dc:date>
+    </item>
+    <item>
+      <title>daily.html</title>
+      <link>http://tanjo.in/daily.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.157587+09:00</dc:date>
+    </item>
+    <item>
+      <title>account.html</title>
+      <link>http://tanjo.in/account.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.157125+09:00</dc:date>
+    </item>
+    <item>
+      <title>404.html</title>
+      <link>http://tanjo.in/404.html</link>
+      <pubDate>Fri, 02 Oct 2015 17:38:25 +0900</pubDate>
+      <dc:date>2015-10-02T17:38:25.156644+09:00</dc:date>
+    </item>
+  </channel>
+</rss>
