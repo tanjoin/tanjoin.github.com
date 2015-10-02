@@ -1,6 +1,9 @@
 Profile
 ===========
 
+Screen Name
+-----------
+tanjoin
 
 Skill
 -----
@@ -14,7 +17,6 @@ Skill
   - CoffeeScript
   - Python
   - Ruby (Rakefile)
-- Swimming、Baseball
 - 高等学校教諭・一種免許状・教科（工業）
 - 基本情報技術者
 - 運転免許
@@ -27,6 +29,12 @@ Skill
   - OneNote
 - Google Docs
   - Google SpreadSheet
+
+Special Skill
+-------------
+- Swimming
+- Baseball
+- Card Game
 
 Hobby
 -----

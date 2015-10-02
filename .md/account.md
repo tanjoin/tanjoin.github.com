@@ -3,8 +3,8 @@ Account
 
 Amazon.co.jp
 ------------
-[Wishlist](http://goo.gl/O2Hoz)
-[Wishlist(X'mas)](http://www.amazon.co.jp/registry/wishlist/3LQEO5V6BA7U0/ref=cm_sw_r_tw_ws_QUKMub1HQSF30)
+- [Wishlist](http://goo.gl/O2Hoz)
+- [Wishlist(X'mas)](http://www.amazon.co.jp/registry/wishlist/3LQEO5V6BA7U0/ref=cm_sw_r_tw_ws_QUKMub1HQSF30)
 
 Game
 ----
