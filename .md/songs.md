@@ -1,6 +1,35 @@
 Songs
 =====
 
+データ取得用スクリプト
+------------------
+### マイりれき
+
+```
+var list = document.getElementById('usk-mypage-history-index-list').children;
+var result = '';
+for (var i = 0; i < list.length; i++) {
+  var data = list[i].children[0].children[0].children[0].innerText.split('／');
+  var date = list[i].children[0].children[0].children[2].innerText.substr(5);
+  result += '| ' + date + ' | ' + data[0] + ' | ' + data[1] + ' |\n';
+}
+prompt('Result', result);
+```
+
+### マイうた
+
+```
+var list = document.getElementById('usk-mypage-mysong-list').children[0].children;
+var result = '';
+for (var i = 0; i < list.length; i++) {
+  var data = list[i].children[1].children[0].children[0].innerText.split('／');
+  var date = list[i].children[1].children[0].children[2].children[1].children[1].innerText;
+  result += '| ' + data[0] + ' | ' + data[1] + ' | ' + date + ' |\n';
+}
+prompt('Result', result);
+```
+
+
 カラオケ履歴 <small>2014/04/30</small>
 ------------------------------------
 
@@ -10,6 +39,23 @@ Songs
 
 | 演奏日付 | 曲名 | 歌手名 |
 | --- | --- | --- |
+| 2015/03/27 | テニプリFEVER | テニプリオールスターズ |
+| 2015/03/27 | ライスとぅミートゅー | 竹達彩奈 |
+| 2015/03/27 | fancy baby doll(LOVE LIVE *Caramel Ribbon* Version)《LIVEカラオケ》 | 田村ゆかり |
+| 2015/03/27 | 幸せについて私が知っている5つの方法 | 坂本真綾 |
+| 2015/03/27 | ゲラゲラポーのうた《アニメカラオケ》 | キング・クリームソーダ |
+| 2015/03/27 | Realize! | i☆Ris |
+| 2015/03/27 | Everybody Shake | 和田アキ子 |
+| 2015/03/27 | 続・溝ノ口太陽族《アニメカラオケ》 | manzo |
+| 2015/03/27 | 1/6の夢旅人2002 | 樋口了一 |
+| 2015/03/27 | るんるんりる らんらんらら | 小林ゆう |
+| 2015/03/27 | 海雪《本人映像》 | ジェロ |
+| 2015/03/27 | チルノのパーフェクトさんすう教室〈Short.ver〉《アニメ映像》 | イオシス/miko |
+| 2015/03/27 | Preserved Roses《本人映像》 | T.M.Revolution×水樹奈々 |
+| 2015/03/27 | 深淵に舞う戦慄謝肉祭 | ZAQ |
+| 2015/03/27 | Punky Funky Love | GRANRODEO |
+| 2015/03/27 | 100%サイダーガール | petit milady |
+| 2015/03/27 | ごはんの練習 | リョウときりん(佐藤利奈と大亀あすか) |
 | 2012/07/19 | ZONE//ALONE | 茅原実里 |
 | 2012/06/19 | ライオン《アニメカラオケ》 | May'n/中島愛 |
 | 2012/06/19 | dots and lines | 一青窈 loves Mummy-D |
@@ -311,6 +357,7 @@ Songs
 | 2011/10/29 | STORM | JAM Project featuring 水木一郎&影山ヒロノブ |
 | 2011/10/29 | 恋愛サーキュレーション | 千石撫子(花澤香菜) |
 
+
 カラオケ順位履歴 <small>2014/04/30</small>
 ----------------------------------------
 
@@ -463,6 +510,10 @@ Songs
 
 | 曲名 | 歌手 | 登録日 |
 | --- | --- | --- |
+
+| あの森で待ってる | ボンジュール鈴木 | 2015/03/27 21:56:28 |
+| 結局、偶然で候 | 柳生十兵衛・真田幸村・徳川千(悠木碧・釘宮理恵・寿美菜子) | 2014/05/18 15:24:38 |
+| 深淵に舞う戦慄謝肉祭 | ZAQ | 2014/04/30 16:46:23 |
 | DOKIDOKIリズム | 城ヶ崎莉嘉(CV山本希望) | 2012/07/26 |
 | dots and lines | 一青窈 loves Mummy-D | 2012/06/17 |
 | 曇天 | DOES | 2012/04/23 |
