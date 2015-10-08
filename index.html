@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,172 +8,38 @@
   <!-- Icon -->
   <link rel="apple-touch-icon" href="./img/makietan@144.png" />
   <link rel="shortcut icon" href="./img/makietan@144.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/common.css">
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" href="rss.xml" />
+
   <title>tanjo.in</title>
-
-  <!-- // GA -->
-  <script>
-    (function(i, s, o, g, r, a, m) {
-      i['GoogleAnalyticsObject'] = r;
-      i[r] = i[r] || function() {
-        (i[r].q = i[r].q || []).push(arguments)
-      }, i[r].l = 1 * new Date();
-      a = s.createElement(o), m = s.getElementsByTagName(o)[0];
-      a.async = 1;
-      a.src = g;
-      m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <!-- GA // -->
 </head>
-
 <body>
-  <nav>
-    <div class="nav-wrapper light-blue darken-1">
-      <a href="#!" class="brand-logo center">tanjo.in</a>
-      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-      <ul class="left hide-on-med-and-down">
-        <li><a href="index.html">TOP</a></li>
-        <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
-        <li><a href="daily.html">Daily</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="phone.html">Phone</a></li>
-        <li><a href="http://seesaawiki.jp/tanjoin/">Wiki</a></li>
-      </ul>
-      <ul id="mobile-demo" class="side-nav">
-        <li><a href="index.html">TOP</a></li>
-        <li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
-        <li><a href="daily.html">Daily</a></li>
-        <li><a href="schedule.html">Schedule</a></li>
-        <li><a href="phone.html">Phone</a></li>
-        <li><a href="http://seesaawiki.jp/tanjoin/">Wiki</a></li>
-      </ul>
-    </div>
-  </nav>
+  <div class="contents">
+<h1>tanjo.in</h1>
 
-  <div class="section">
-    <div class="container">
-      <div class="row" id="profile">
-        <div class="col s12 m12 l12">
+<h2>Index</h2>
 
-
-          <h3>Twitter</h3>
-          <div id="tanjoin-tiwtter-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://twitter.com/makietan">@makietan</a> &nbsp;
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://twitter.com/tanjoin">@tanjoin</a>
-          </div>
-
-
-          <h3>Github</h3>
-          <div id="tanjoin-github-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://github.com/tanjo">tanjo</a> &nbsp;
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="https://github.com/tanjoin">tanjoin</a>
-          </div>
-
-          <h3>dotfiles</h3>
-          <div id="tanjoin-github-dotfiles">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://tanjo.github.io/dotfiles/">.tanjo</a>
-          </div>
-
-          <h3>LINE</h3>
-          <div id="tanjoin-line-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://line.me/ja/">tanjoin</a>
-          </div>
-
-
-          <h3>剣と魔法のログレス いにしえの女神</h3>
-          <div id="tanjoin-logres-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://sp.mmo-logres.com/">412-804-169</a>
-          </div>
-
-
-          <h3>パズドラ</h3>
-          <div id="tanjoin-pad-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://pad.gungho.jp/member/">124,274,384</a>
-          </div>
-
-
-          <h3>モンスト</h3>
-          <div id="tanjoin-monst-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://www.monster-strike.com/">481,243,338</a>
-          </div>
-
-          <h3>デレステ</h3>
-          <div id="tanjoin-deresute-account">
-            <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1" href="http://cinderella.idolmaster.jp/sl-stage/">257406771</a>
-          </div>
-
-          <h3>Skill</h3>
-          <div id="tanjoin-skill">
-            <div class="collapsible-header">水泳</div>
-            <div class="collapsible-header">野球</div>
-            <div class="collapsible-header">高等学校教諭・一種免許状・教科（工業）</div>
-            <div class="collapsible-header">基本情報技術者</div>
-            <div class="collapsible-header">運転免許</div>
-            <div class="collapsible-body" style="display: block;">
-              <p>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">原動機付自転車免許（原付免許）</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">第一種普通自動車免許（普通免許）</a>
-              </p>
-            </div>
-            <div class="collapsible-header">Programming</div>
-            <div class="collapsible-body" style="display: block;">
-              <p>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">C/C++</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Objective-C (iOS)</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Java (Android)</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Node.js</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Javascript</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">CoffeeScript</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Rake</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Python</a>
-              </p>
-            </div>
-            <div class="collapsible-header">Microsoft Office</div>
-            <div class="collapsible-body" style="display: block;">
-              <p>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Word</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Excel</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">PowerPoint</a>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">OneNote</a>
-              </p>
-            </div>
-            <div class="collapsible-header">Google Docs</div>
-            <div class="collapsible-body" style="display: block;">
-              <p>
-                <a class="waves-effect waves-light btn light-blue darken-1 white-text text-darken-1">Google SpreadSheet</a>
-              </p>
-            </div>
-            <!--
-            <li>
-              <div class="collapsible-header"></div>
-              <div class="collapsible-body"></div>
-            </li>
-            -->
-          </div>
-
-
-        </div>
-      </div>
-    </div>
+<ul>
+<li><a href="account.html">Account</a></li>
+<li><a href="http://tanjoin.hatenablog.com/">Blog</a></li>
+<li><a href="daily.html">Daily</a></li>
+<li><a href="goal.html">Goal</a></li>
+<li><a href="hangout.html">Hangout</a></li>
+<li><a href="image.html">Image</a></li>
+<li><a href="phone.html">Phone</a></li>
+<li><a href="profile.html">Profile</a></li>
+<li><a href="schedule.html">Schedule</a></li>
+<li><a href="songs.html">Songs</a></li>
+<li><a href="tax.html">Tax</a></li>
+<li><a href="https://twitter.com/makietan/timelines/412891665209106432">TODO</a></li>
+<li><a href="http://seesaawiki.jp/tanjoin/">Wiki</a></li>
+</ul>
   </div>
+  <!-- JS -->
+  <script type="text/javascript" src="js/common.js"></script>
+  <!-- GA -->
+  <script type="text/javascript" src="js/ga.js"></script>
 </body>
-
 </html>
-
-<!-- Scripts -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
-<script>
-  /* conatents of a small JavaScript file */
-  $(".button-collapse").sideNav();
-
-  $(document).ready(function() {
-    $('.collapsible').collapsible({
-      accordion: false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
-    });
-  });
-</script>
-<!-- CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
