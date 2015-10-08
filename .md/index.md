@@ -4,11 +4,14 @@ tanjo.in
 Index
 ------
 - [Account](account.html)
+- [Anime](anime.html)
 - [Blog](http://tanjoin.hatenablog.com/)
+- [Book](book.html)
 - [Daily](daily.html)
 - [Goal](goal.html)
 - [Hangout](hangout.html)
 - [Image](image.html)
+- [Manga](manga.html)
 - [Phone](phone.html)
 - [Profile](profile.html)
 - [Schedule](schedule.html)

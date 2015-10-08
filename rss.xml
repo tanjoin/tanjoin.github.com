@@ -15,58 +15,10 @@
       <link>http://tanjo.in</link>
     </image>
     <item>
-      <title>old/old/tmp/yjfx/index.html</title>
-      <link>http://tanjo.in/old/old/tmp/yjfx/index.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.778479+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/wiki/iOS/BOOL.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/wiki/iOS/BOOL.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.777994+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/wiki/gitbash.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/wiki/gitbash.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.777492+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/wiki/four-coma.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/wiki/four-coma.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.77698+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/wiki/color.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/wiki/color.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.77645+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/wiki/bookmarklets.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/wiki/bookmarklets.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.775903+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/old/index.html</title>
-      <link>http://tanjo.in/old/old/tmp/old/index.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.775297+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/index.html</title>
-      <link>http://tanjo.in/old/old/tmp/index.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.774371+09:00</dc:date>
-    </item>
-    <item>
-      <title>old/old/tmp/TODO/index.html</title>
-      <link>http://tanjo.in/old/old/tmp/TODO/index.html</link>
-      <pubDate>Thu, 08 Oct 2015 19:14:38 +0900</pubDate>
-      <dc:date>2015-10-08T19:14:38.773723+09:00</dc:date>
+      <title>index.html</title>
+      <link>http://tanjo.in/index.html</link>
+      <pubDate>Thu, 08 Oct 2015 19:20:49 +0900</pubDate>
+      <dc:date>2015-10-08T19:20:49.60209+09:00</dc:date>
     </item>
   </channel>
 </rss>
