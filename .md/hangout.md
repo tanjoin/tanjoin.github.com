@@ -34,3 +34,4 @@ Hospital
 - [虎の門病院](http://www.toranomon.gr.jp/) - Map
 - [池田歯科医院](http://www.ikeda-shika.jp/) - [Map](https://goo.gl/maps/JvwgJ)
 - [小川耳鼻咽喉科医院](http://www1.r3.rosenet.jp/ogawa/) - Map
+- [アットホーム表参道クリニック](http://www.o-athome.jp/)
