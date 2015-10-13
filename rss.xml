@@ -15,16 +15,10 @@
       <link>http://tanjo.in</link>
     </image>
     <item>
-      <title>schedule.html</title>
-      <link>http://tanjo.in/schedule.html</link>
-      <pubDate>Fri, 09 Oct 2015 17:38:24 +0900</pubDate>
-      <dc:date>2015-10-09T17:38:24.530659+09:00</dc:date>
-    </item>
-    <item>
-      <title>hangout.html</title>
-      <link>http://tanjo.in/hangout.html</link>
-      <pubDate>Fri, 09 Oct 2015 17:38:24 +0900</pubDate>
-      <dc:date>2015-10-09T17:38:24.530195+09:00</dc:date>
+      <title>songs.html</title>
+      <link>http://tanjo.in/songs.html</link>
+      <pubDate>Tue, 13 Oct 2015 13:06:26 +0900</pubDate>
+      <dc:date>2015-10-13T13:06:26.839721+09:00</dc:date>
     </item>
   </channel>
 </rss>
