@@ -9,7 +9,8 @@ Daily
 - [ECナビ - おしえて！どっち？](http://ecnavi.jp/vote/choice/)
 - [【ポンパレモール限定ポイント】ポイントルーレットキャンペーン-リクルートポイント](http://point.recruit.co.jp/doc/campaign/point_roulette/)
 - [Yahoo!ズバトク](http://toku.yahoo.co.jp/)
-- 次回： 2015年12月・2016年3月 [宝探しくじ｜Tサイト[Tポイント/Tカード]](http://cp.tsite.jp/cpn/thlottery)
+
+<!-- 次回： 2015年12月・2016年3月 [宝探しくじ｜Tサイト[Tポイント/Tカード]](http://cp.tsite.jp/cpn/thlottery) -->
 
 21:00
 -----
