@@ -10,19 +10,19 @@ Game
 ----
 
 ### デレステ
-257406771
+<span class="clipboard" data-clipboard-text="257406771">257406771</span>
 
 ### モンスト
-481,243,338
+<span class="clipboard" data-clipboard-text="481243338">481,243,338</span>
 
 ### パズドラ
-124,274,384
+<span class="clipboard" data-clipboard-text="124274384">124,274,384</span>
 
 ### 剣と魔法のログレス いにしえの女神
-412-804-169
+<span class="clipboard" data-clipboard-text="412-804-169">412-804-169</span>
 
 ### Nintendo Friend Code
-5000-2789-1196 [FYI](https://pbs.twimg.com/media/BxqXfTlCcAAb1R5.jpg)
+<span class="clipboard" data-clipboard-text="5000-2789-1196">5000-2789-1196</span> [FYI](https://pbs.twimg.com/media/BxqXfTlCcAAb1R5.jpg)
 
 Github
 ------
@@ -53,3 +53,9 @@ Twitter
 Tumblr
 ------
 [tanjoin](http://tanjoin.tumblr.com)
+
+
+<!-- clipboard.js http://zenorocha.github.io/clipboard.js/ -->
+<script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+<!-- clipboard -->
+<script type="text/javascript" src="js/clipboard.js"></script>

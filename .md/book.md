@@ -46,3 +46,18 @@ Book
 ### 幸腹グラフィティ (4)
 ### 新世紀エヴァンゲリオン (14)
 ### ゆるゆり 12（特装版）
+### 腐らんす日記 (1)
+
+<a rel="nofollow" href="http://www.amazon.co.jp/gp/product/4063825965/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4063825965&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4063825965&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4063825965" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+フランスのオタクがテーマの漫画
+
+アメリがどストライクですわ
+
+### 腐らんす日記 (2)
+
+<a rel="nofollow" href="http://www.amazon.co.jp/gp/product/4063826864/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4063826864&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4063826864&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4063826864" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+もっと続いて欲しかったな―と思う簡潔完結2巻
+
+アニメ化して欲しかったなぁ
