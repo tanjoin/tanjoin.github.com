@@ -11,8 +11,9 @@ Index
 - [Goal](goal.html)
 - [Hangout](hangout.html)
 - [Image](image.html)
-- [Manga](manga.html)
+<!-- - [Manga](manga.html) -->
 - [Phone](phone.html)
+- [Photo](photo.html)
 - [Profile](profile.html)
 - [Schedule](schedule.html)
 - [Songs](songs.html)

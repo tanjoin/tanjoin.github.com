@@ -34,3 +34,14 @@ A.調整中
 ### posted on 2013/11/11 15:28 | by tanjoin
 
 ![](./img/media-20130429_kiss.jpg)
+
+Other
+-----
+
+![](img/20140817_135229_Android.jpg)
+
+
+![](img/BvC7ZuLIYAAB1Hv.png)
+
+
+![](img/BxFKvgNCAAEoAbB.jpg)
