@@ -1,0 +1,9 @@
+GEM
+  specs:
+    redcarpet (3.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redcarpet
