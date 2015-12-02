@@ -15,10 +15,16 @@
       <link>http://tanjo.in</link>
     </image>
     <item>
+      <title>index.html</title>
+      <link>http://tanjo.in/index.html</link>
+      <pubDate>Wed, 02 Dec 2015 20:30:44 +0900</pubDate>
+      <dc:date>2015-12-02T20:30:44.31539+09:00</dc:date>
+    </item>
+    <item>
       <title>goal.html</title>
       <link>http://tanjo.in/goal.html</link>
-      <pubDate>Fri, 13 Nov 2015 13:00:11 +0900</pubDate>
-      <dc:date>2015-11-13T13:00:11.538591+09:00</dc:date>
+      <pubDate>Wed, 02 Dec 2015 20:30:44 +0900</pubDate>
+      <dc:date>2015-12-02T20:30:44.314765+09:00</dc:date>
     </item>
   </channel>
 </rss>

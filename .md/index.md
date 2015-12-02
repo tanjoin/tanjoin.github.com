@@ -9,9 +9,6 @@ Index
 - [Book](book.html)
 - [Daily](daily.html)
 - [Goal](goal.html)
-- [Hangout](hangout.html)
-- [Image](image.html)
-<!-- - [Manga](manga.html) -->
 - [Phone](phone.html)
 - [Photo](photo.html)
 - [Profile](profile.html)
