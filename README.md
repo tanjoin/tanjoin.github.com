@@ -1,3 +1,1 @@
-tanjoin.github.com
-==================
-http://tanjo.in
+# tanjo.in
