@@ -1,5 +1,36 @@
-Phone
-=====
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="tanjoin">
+  <meta name="description" content="tanjoin について">
+  <meta name="format-detection" content="telephone=no,address=no,email=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="publisher" href="//plus.google.com/00000000000">
+  <link rel="canonical" href="http://tanjo.in">
+  <!-- Icon -->
+  <link rel="apple-touch-icon" href="./img/makietan@144.png" />
+  <link rel="shortcut icon" href="./img/makietan@144.png" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/common.css">
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" href="rss.xml" />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@tanjoin" />
+  <meta name="twitter:title" content="tanjo.in" />
+  <meta name="twitter:description" content="tanjoin について" />
+  <meta name="twitter:image" content="./img/makietan@144.png" />
+
+  <title>tanjo.in</title></head>
+<body>
+  <div id="content"></div>
+</body>
+<script type="text/template" id="markdown">
+tanjo.in - Phone
+================
+
+**旧情報につき修正の必要あり**
 
 Galaxy S3α (SC-03E)
 -------------------
@@ -103,7 +134,28 @@ MNP予定なし
 |ドコモ回線プラン スタート記念キャンペーン|-800|
 |合計|50|
 
-
 <link rel="stylesheet" href="css/progress.css">
-<!-- jQuery --><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+</script>
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<!-- marked.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js" type="text/javascript"></script>
+<!-- clipboard.js http://zenorocha.github.io/clipboard.js/ -->
+<script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+<!-- clipboard -->
+<script type="text/javascript" src="js/clipboard.js"></script>
+<!-- Progress -->
 <script type="text/javascript" src="js/progress.js"></script>
+<!-- Songs -->
+<script type="text/javascript" src="js/songs.js"></script>
+<script>
+  document.getElementById('content').innerHTML =
+    marked(document.getElementById('markdown').innerHTML);
+</script>
+<!-- JS -->
+<script type="text/javascript" src="js/common.js"></script>
+<!-- GA -->
+<script type="text/javascript" src="js/ga.js"></script>
+</html>
