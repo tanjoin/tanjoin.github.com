@@ -1,40 +1,28 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="author" content="tanjoin">
-  <meta name="description" content="ポイントについて">
-  <meta name="format-detection" content="telephone=no,address=no,email=no">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="theme-color" content="#4183C4">
-  <link rel="canonical" href="http://tanjo.in">
-  <!-- Icon -->
-  <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-  <link rel="shortcut icon" href="./img/makietan@144.png" />
-  <!-- CSS -->
-  <link rel="stylesheet" href="css/common.css">
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" href="rss.xml" />
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@tanjoin" />
-  <meta name="twitter:title" content="tanjo.in" />
-  <meta name="twitter:description" content="ポイントについて" />
-  <meta name="twitter:image" content="./img/makietan@144.png" />
-
-  <title>tanjo.in - Point</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#4183C4">
+    <!-- Icon -->
+    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
+    <link rel="shortcut icon" href="./img/makietan@144.png" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/mokuji.css" />
+    <title>Point - tanjo.in</title>
 </head>
 <body>
-  <div id="content"></div>
+    <div id="content"></div>
 </body>
 <script type="text/template" id="markdown">
-tanjo.in - Point
-================
+# Point
 
 [利用しているポイントサービス & 電子マネー](http://tanjoin.hatenablog.com/entry/point)
 
-ＶＩＳＡクラシックカード ワールドポイント
-----------
+<div id="mokuji"></div>
+
+## ＶＩＳＡクラシックカード ワールドポイント
 
 ［1］獲得・調整ポイント累計残高	129ポイント
 ［2］プレミアム・ボーナスポイント残高	0ポイント
@@ -42,8 +30,7 @@ tanjo.in - Point
 
 30ポイントが2016年6月末日で期限切れ (ANAマイルへ延命のため移行予定)
 
-[NTTグループカードポイント](https://www.ntt-card.com/course/point.shtml)
-----------
+## [NTTグループカードポイント](https://www.ntt-card.com/course/point.shtml)
 
 現在のポイント残高：1,386pt
 
@@ -80,8 +67,7 @@ tanjo.in - Point
 |80|２０１７年　２月２８日|
 |50|２０１７年　３月３１日|
 
-[d ポイント](https://dpoint.jp/ctrw/web/)
-----------
+## [d ポイント](https://dpoint.jp/ctrw/web/)
 
 ### 有効期限
 
@@ -432,12 +418,12 @@ tanjo.in - Point
 |2015/11/25|2015/11/24|利用|ｄポイントへの移行|ドコモポイント|-199|L0001|
 |2015/10/4|2015/10/4|利用|携帯電話機・付属品等店頭等|ドコモポイント|-100|A0003|
 
-[T ポイント](https://tsite.jp/)
-----------
+## [T ポイント](https://tsite.jp/)
+
 ### 2016/03/31
 779 ポイント
 #### 期間固定ポイント
-##### 洋服の青山	
+##### 洋服の青山
 - 1000pt
 - 2016/05/08
 
@@ -604,14 +590,30 @@ tanjo.in - Point
 |15/10/02|15/10/02|Ｔポイントくじ＊|ヤフージャパン|貯める|10|
 
 </script>
-<!-- Marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js" type="text/javascript"></script>
+<!-- marked -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
 <script>
-  document.getElementById('content').innerHTML =
-    marked(document.getElementById('markdown').innerHTML);
+    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
 </script>
-<!-- JS -->
-<script type="text/javascript" src="js/common.js"></script>
-<!-- GA -->
-<script type="text/javascript" src="js/ga.js"></script>
+<!-- js/mokuji.js -->
+<script src="js/mokuji.js"></script>
+<script>
+  mokuji(2,2);
+</script>
+<!-- Google Analytics -->
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-13243407-11', 'auto');
+    ga('send', 'pageview');
+</script>
 </html>

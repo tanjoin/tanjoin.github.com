@@ -1,3 +1,3 @@
 # tanjo.in
 
-http://tanjo.in
+https://tanjo.in
