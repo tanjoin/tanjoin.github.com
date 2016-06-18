@@ -725,6 +725,18 @@ prompt('Result', result);
 <!-- jQuery && tablesorter -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<script>
+  $(document).ready(function() {
+    $('table').each(function () {
+      $(this).tablesorter({
+        sortList: [
+          [0, 0],
+          [1, 0]
+        ]
+      });
+    });
+  });
+</script>
 <!-- Google Analytics -->
 <script>
     (function(i, s, o, g, r, a, m) {
