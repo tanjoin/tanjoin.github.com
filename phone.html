@@ -18,6 +18,8 @@
 <script type="text/template" id="markdown">
 # Phone
 
+<div id="mokuji"></div>
+
 [My docomo | NTTドコモ](https://www.nttdocomo.co.jp/mydocomo/)
 
 ## ドコモ光
@@ -233,6 +235,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
 <script>
     document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
+</script>
+<!-- js/mokuji.js -->
+<script src="js/mokuji.js"></script>
+<script>
+  mokuji(3,3);
 </script>
 <!-- js/progress.js -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
