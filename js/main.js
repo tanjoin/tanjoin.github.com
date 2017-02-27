@@ -57,6 +57,7 @@ tanjoin.onload = function(urlQuery) {
       tanjoin.markdown = tanjoin.MARKDOWN_CONTENT_404;
     }
     document.getElementById(tanjoin.CONTAINER).innerHTML = marked(tanjoin.markdown);
+    tanjoin.after();
   });
 };
 
@@ -67,7 +68,7 @@ tanjoin.after = function() {
   if (mokuji) {
     mokuji(parseInt(mokuji.getAttribute('first')), parseInt(mokuji.getAttribute('last')));
   }
-  
+
   // progress
   Progress.run();
 
