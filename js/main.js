@@ -4,7 +4,7 @@ var tanjoin = {};
 tanjoin.MARKDOWN_CONTENT_404 = "# 404 Not Found\n\nページが見つかりません.";
 
 // デフォルトページ
-tanjoin.DEFAULT_PAGE = "main";
+tanjoin.DEFAULT_PAGE = "MAIN";
 
 // BASE url
 tanjoin.BASE_URL = "https://tanjo.in/";
@@ -33,7 +33,7 @@ tanjoin.getUrlQuery = function() {
 // @param {string} name - Markdown 名。 .md は取り除くこと。
 // @param {Requester~requestCallback} callback - リクエスト結果。
 tanjoin.getMarkdown = function(name, callback) {
-  tanjoin.requestGet(tanjoin.BASE_URL + name + tanjoin.MARKDOWN_FILENAME_EXTENSION, callback);
+  tanjoin.requestGet(tanjoin.BASE_URL + name.toUpperCase() + tanjoin.MARKDOWN_FILENAME_EXTENSION, callback);
 };
 
 // GET リクエスト
