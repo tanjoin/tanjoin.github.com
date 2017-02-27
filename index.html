@@ -5,76 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#122538">
     <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
+    <link rel="apple-touch-icon" href="img/makietan@144.png" />
+    <link rel="shortcut icon" href="img/makietan@144.png" />
     <!-- CSS -->
     <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/mokuji.css" />
+    <link rel="stylesheet" href="css/progress.css" />
     <title>tanjo.in</title>
 </head>
 <body>
     <div id="content"></div>
 </body>
-<script type="text/template" id="markdown">
-# tanjo.in
-
-- [ACC](https://tanjoin.github.io/acc)
-- [Account](account.html)
-- [Appliance](appliance.html)
-- [Book](book.html)
-- [Bookmarklet](https://tanjoin.github.io/bookmarklet)
-- [Blog（役に立ちそうで役に立たないブログ）](http://tanjoin.hatenablog.com/)
-- [Credit Card](creditcard.html)
-- [Phone](phone.html)
-- [Point](point.html)
-- [Song](song.html)
-- [Wiki](https://github.com/tanjoin/tanjoin.github.com/wiki)
-- [二郎](jiro.html)
-- [飯（すずろ庵）](http://tanjoin.hatenablog.jp/)
-- [Structure of site](structure_of_site.html)
-
-## Private
-
-- [医療費集計](https://docs.google.com/spreadsheets/d/1JzpNX8PTq8NFPJ5U2VH_-ydL46GLCtAV-odAWcReBeY/edit?usp=sharing)
-- [体重](https://docs.google.com/spreadsheets/d/1ql5NfGfQ3dMBesF8ghFvAOIZGOMX3wPdxdtUbfsL3Zc/edit?usp=sharing)
-- [家計簿](https://docs.google.com/spreadsheets/d/1vjcBetU8TBj482C17EsOe9xOrWlM0XlUUO5-1ROrgBE/edit?usp=sharing)
-- [辞書](https://docs.google.com/spreadsheets/d/1VyrDKU1YRz9VtkM_0J421lUr1mb95iSDJRL3RA0pkic/edit?usp=sharing)
-- [携帯電話](https://docs.google.com/spreadsheets/d/10Z97rmXuuLKra31T5f5aLvtNNKbu2gHrNemgmUjXGkA/edit?usp=sharing)
-- [カロリー](https://docs.google.com/spreadsheets/d/1EAQ2jtBbQC3DOs3fFyfBIetTAm8hMPIFG06fa-hYMTI/edit?usp=sharing)
-
-## Deprecated
-
-- [ラーメン](ramen.html)
-- [行きたい場所](ikitai.html)
-
-### 趣味・特技
-
-- 野球
-- 風呂
-- 睡眠
-
-### ステータス
-
-I'm available.
-
-### Biography
-
-|Year||
-|:-----|-----:|
-|1992/4/1-1993/3/31|Shirogane Kindergarten|
-|1993/4/1-1995/3/31|Shindo Kindergarten|
-|1995/4/1-2001/3/31|Shindo Elementary School|
-|2001/4/1-2004/3/31|Tondabayashi City Daiichi Junior High School|
-|2004/4/1-2007/3/31|Hatsushiba Tondabayashi Senior High School|
-|2007/4/1-2013/3/31|Wakayama University|
-|2013/4/1-2015/10/31|Engineer|
-|2015/11/1-|Engineer|
-
-</script>
 <!-- marked -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
+<!-- js/mokuji.js -->
+<script src="js/mokuji.js"></script>
+<!-- clipboard.js http://zenorocha.github.io/clipboard.js/ -->
+<script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+<script src="js/clipboard.js"></script>
+<!-- js/progress.js -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="js/progress.js"></script>
+<!-- Google Charts -->
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="js/chart.js"></script>
+<!-- Twitter widget -->
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- jQuery && tablesorter -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<script src="js/tablesort.js"></script>
+<!-- main.js -->
+<script src="js/main.js"></script>
 <!-- Google Analytics -->
 <script>
     (function(i, s, o, g, r, a, m) {

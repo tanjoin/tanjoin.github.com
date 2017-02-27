@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#122538">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/mokuji.css" />
-    <title>Song - tanjo.in</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<script type="text/template" id="markdown">
 # Song
 
 <div id="mokuji"></div>
+<script>mokuji(2,2);</script>
 
 ## データ取得用スクリプト
 
@@ -926,49 +909,3 @@ prompt('Result', result);
 | 98 | 223位 | 87.548点 | 2012年08月度 | 明日晴れるかな | 桑田佳祐 |
 | 99 | 223位 | 83.696点 | 2012年08月度 | うんこ | 森山直太朗 |
 | 100 | 227位 | 68.000点 | 2012年07月度 | ZONE//ALONE | 茅原実里 |
-
-
-
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- js/mokuji.js -->
-<script src="js/mokuji.js"></script>
-<script>
-  mokuji(2,2)
-</script>
-<!-- jQuery && tablesorter -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
-<script>
-  $(document).ready(function() {
-    $('table').each(function () {
-      $(this).tablesorter({
-        sortList: [
-          [0, 0],
-          [1, 0]
-        ]
-      });
-    });
-  });
-</script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>

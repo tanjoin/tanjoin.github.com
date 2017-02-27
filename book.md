@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#122538">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/common.css" />
-    <link rel="stylesheet" href="css/mokuji.css" />
-    <title>Book - tanjo.in</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<script type="text/template" id="markdown">
 # Book
 
 <div id="mokuji"></div>
+<script>mokuji(3,3);</script>
 
 ポンパレモールの購入履歴と Amazon.co.jp の購入履歴を記載しています.
 
@@ -621,32 +604,3 @@
 (26年2月号)
 
 <a href="http://www.amazon.co.jp/gp/product/B00HCZWWIY/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00HCZWWIY&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HCZWWIY&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=B00HCZWWIY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- js/mokuji.js -->
-<script src="js/mokuji.js"></script>
-<script>
-  mokuji(3,3);
-</script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>

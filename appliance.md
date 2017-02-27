@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#122538">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/common.css">
-    <title>tanjo.in - 家電</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<script type="text/template" id="markdown">
 # 家電
 
 利用している家電をリスト化.
@@ -22,6 +5,9 @@
 Amazon 履歴 2014年まで.
 
 画像は Amazon.co.jpアソシエイト のものを利用しています.
+
+<div id="mokuji"></div>
+<script>mokuji(2, 3);</script>
 
 ## 電子レンジ
 
@@ -149,27 +135,3 @@ Amazon 履歴 2014年まで.
 ### [PLEX社製 地上デジタル対応USB接続ドングル型チューナー PX-S1UD](http://www.plex-net.co.jp/product/pxs1ud_feature.html)
 
 <a href="https://www.amazon.co.jp/gp/product/B006RQLNES/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=be08d171d8a5c3c91e552c5df644a149" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006RQLNES&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B006RQLNES" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>

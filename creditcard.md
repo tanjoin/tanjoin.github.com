@@ -1,26 +1,9 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#122538">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/mokuji.css" />
-    <title>Credit Card - tanjo.in</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<script type="text/template" id="markdown">
 # Credit Card
 
 [保有しているクレジットカード一覧](http://tanjoin.hatenablog.com/entry/creditcard)
 
 <div id="mokuji"></div>
+<script>mokuji(2,2);</script>
 
 ## [セブンカード・プラス](http://www.7card.co.jp/)
 
@@ -183,32 +166,3 @@ TEL: 06-6223-1350
 ## [おさいふPonta](http://www.osaifuponta.lawson.co.jp/)
 ## [ウェブマネー ウォレット](https://service.webmoney.jp/wallet/spd.jsp?tmpl=walletLogin)
 ## [WebMoney Card](http://www.webmoney.jp/variation/wmcard.html)
-
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- js/mokuji.js -->
-<script src="js/mokuji.js"></script>
-<script>
-  mokuji(2,2);
-</script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>

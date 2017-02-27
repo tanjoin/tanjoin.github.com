@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#122538">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="./img/makietan@144.png" />
-    <link rel="shortcut icon" href="./img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/common.css" />
-    <link rel="stylesheet" href="css/progress.css" />
-    <title>Phone - tanjo.in</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<script type="text/template" id="markdown">
 # Phone
 
 [My docomo | NTTドコモ](https://www.nttdocomo.co.jp/mydocomo/)
@@ -23,6 +5,7 @@
 [My SoftBank | ソフトバンク](https://my.softbank.jp/msb/d/top)
 
 <div id="mokuji"></div>
+<script>mokuji(2,2);</script>
 
 ## ドコモ光
 
@@ -281,38 +264,3 @@
 |月月割額|割引回数|
 |:-|:-|
 |1,223円（税込1,320円）|36回|
-
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- js/mokuji.js -->
-<script src="js/mokuji.js"></script>
-<script>
-  mokuji(2,2);
-</script>
-<!-- js/progress.js -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="js/progress.js"></script>
-<!-- Google Charts -->
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script src="js/chart.js"></script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>
