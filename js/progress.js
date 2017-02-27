@@ -1,5 +1,5 @@
 var Progress = {};
-var Progress.run() = function() {
+Progress.run = function() {
   $(".mnpday").each(function() {
     var year = $(this).attr("year");
     var month = $(this).attr("month");
