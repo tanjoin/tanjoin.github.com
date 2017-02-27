@@ -66,7 +66,7 @@ tanjoin.after = function() {
   var mokuji;
   mokuji = document.getElementById('mokuji');
   if (mokuji) {
-    mokuji(parseInt(mokuji.getAttribute('first')), parseInt(mokuji.getAttribute('last')));
+    Mokuji.run(parseInt(mokuji.getAttribute('first')), parseInt(mokuji.getAttribute('last')));
   }
 
   // progress

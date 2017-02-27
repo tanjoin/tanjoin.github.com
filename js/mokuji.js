@@ -1,4 +1,5 @@
-function mokuji(first, last) {
+var Mokuji = {};
+Mokuji.run = function(first, last) {
   var mokujiDiv = document.getElementById('mokuji');
   var query = "";
   for (var i = first; i <= last; i++) {
@@ -24,4 +25,4 @@ function mokuji(first, last) {
     ul.appendChild(line);
   }
   mokujiDiv.appendChild(ul);
-}
+};
