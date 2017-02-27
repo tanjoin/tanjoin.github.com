@@ -51,12 +51,28 @@ tanjoin.onload = function(urlQuery) {
     urlQuery.q = tanjoin.DEFAULT_PAGE;
   }
   tanjoin.getMarkdown(urlQuery.q, function() {
+    var script;
     tanjoin.markdown = this.responseText;
     if (!tanjoin.markdown || this.status === 404) {
       tanjoin.markdown = tanjoin.MARKDOWN_CONTENT_404;
     }
     document.getElementById(tanjoin.CONTAINER).innerHTML = marked(tanjoin.markdown);
   });
+};
+
+tanjoin.after = function() {
+  // mokuji
+  var mokuji;
+  mokuji = document.getElementById('mokuji').innerText;
+  if (mokuji) {
+    mokuji(parseInt(mokuji.getAttribute('first')), parseInt(mokuji.getAttribute('last')));
+  }
+  
+  // progress
+  Progress.run();
+
+  // chart
+  Chart.run();
 };
 
 window.onload = function() {

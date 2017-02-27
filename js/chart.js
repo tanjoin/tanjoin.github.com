@@ -1,5 +1,5 @@
-$(window).load(function() {
-
+var Chart = {};
+Chart.run = function() {
   var drawChart = function() {
     var pricecharts = document.getElementsByClassName('pricechart');
 
@@ -26,4 +26,8 @@ $(window).load(function() {
 
   google.charts.load('current', {'packages':['corechart', 'bar']});
   google.charts.setOnLoadCallback(drawChart);
+};
+
+$(window).load(function() {
+  Chart.run();
 });

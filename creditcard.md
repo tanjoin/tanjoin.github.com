@@ -2,7 +2,7 @@
 
 [保有しているクレジットカード一覧](http://tanjoin.hatenablog.com/entry/creditcard)
 
-<div id="mokuji"></div>
+<div id="mokuji" first="2" last="2"></div>
 
 ## [セブンカード・プラス](http://www.7card.co.jp/)
 
@@ -165,5 +165,3 @@ TEL: 06-6223-1350
 ## [おさいふPonta](http://www.osaifuponta.lawson.co.jp/)
 ## [ウェブマネー ウォレット](https://service.webmoney.jp/wallet/spd.jsp?tmpl=walletLogin)
 ## [WebMoney Card](http://www.webmoney.jp/variation/wmcard.html)
-
-<script>mokuji(2,2);</script>

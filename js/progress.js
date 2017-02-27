@@ -1,4 +1,5 @@
-$(window).load(function() {
+var Progress = {};
+var Progress.run() = function() {
   $(".mnpday").each(function() {
     var year = $(this).attr("year");
     var month = $(this).attr("month");
@@ -37,4 +38,8 @@ $(window).load(function() {
 
     $(this).html('<div>あと ' + (deadlineDay - sinceDay) + '日</div> <div class="progress"><div class="determinate" style="width: ' + (since / deadline * 100) + '%"></div></div>');
   });
+};
+
+$(window).load(function() {
+  Progress.run();
 });

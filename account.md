@@ -1,6 +1,6 @@
 # Account
 
-<div id="mokuji"></div>
+<div id="mokuji" first="2" last="2"></div>
 
 ## dポイント
 
@@ -102,8 +102,3 @@ FX用
 
 - [役に立ちそうで役に立たないブログ](http://tanjoin.hatenablog.com/)
 - [すずろ庵](http://tanjoin.hatenablog.jp/)
-
-<script>
-  console.log("OK");
-  mokuji(2, 2);
-</script>

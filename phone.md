@@ -4,7 +4,7 @@
 
 [My SoftBank | ソフトバンク](https://my.softbank.jp/msb/d/top)
 
-<div id="mokuji"></div>
+<div id="mokuji" first="2" last="2"></div>
 
 ## ドコモ光
 
@@ -263,5 +263,3 @@
 |月月割額|割引回数|
 |:-|:-|
 |1,223円（税込1,320円）|36回|
-
-<script>mokuji(2,2);</script>
