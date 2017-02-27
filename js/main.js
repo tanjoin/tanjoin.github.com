@@ -7,7 +7,7 @@ tanjoin.MARKDOWN_CONTENT_404 = "# 404 Not Found\n\nページが見つかりま�
 tanjoin.DEFAULT_PAGE = "index";
 
 // BASE url
-tanjoin.BASE_URL = "https://tanjo.in/md/";
+tanjoin.BASE_URL = "https://tanjo.in/";
 
 // Markdown extension
 tanjoin.MARKDOWN_FILENAME_EXTENSION = ".md";
