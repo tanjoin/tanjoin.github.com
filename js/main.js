@@ -64,7 +64,7 @@ tanjoin.onload = function(urlQuery) {
 tanjoin.after = function() {
   // mokuji
   var mokuji;
-  mokuji = document.getElementById('mokuji').innerText;
+  mokuji = document.getElementById('mokuji');
   if (mokuji) {
     mokuji(parseInt(mokuji.getAttribute('first')), parseInt(mokuji.getAttribute('last')));
   }
