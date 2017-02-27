@@ -1,7 +1,6 @@
 # Book
 
 <div id="mokuji"></div>
-<script>mokuji(3,3);</script>
 
 ポンパレモールの購入履歴と Amazon.co.jp の購入履歴を記載しています.
 
@@ -604,3 +603,5 @@
 (26年2月号)
 
 <a href="http://www.amazon.co.jp/gp/product/B00HCZWWIY/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00HCZWWIY&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HCZWWIY&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=B00HCZWWIY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<script>mokuji(3,3);</script>

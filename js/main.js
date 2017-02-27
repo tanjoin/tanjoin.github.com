@@ -4,7 +4,7 @@ var tanjoin = {};
 tanjoin.MARKDOWN_CONTENT_404 = "# 404 Not Found\n\nページが見つかりません.";
 
 // デフォルトページ
-tanjoin.DEFAULT_PAGE = "index";
+tanjoin.DEFAULT_PAGE = "main";
 
 // BASE url
 tanjoin.BASE_URL = "https://tanjo.in/";
