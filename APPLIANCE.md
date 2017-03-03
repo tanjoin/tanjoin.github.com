@@ -47,6 +47,12 @@ Amazon 履歴 2014年まで.
 
 <a href="https://www.amazon.co.jp/gp/product/B010F4OBT6/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=2b43c9fe0c618b7b59ae93112dd537ea" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010F4OBT6&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B010F4OBT6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## スマホケース
+
+### [レイ・アウト iPhone7 Plus ケース 手帳型 ファブリック スナップボタン スウェット/ライトグレー RT-P13FBC1/GR](http://www.ray-out.co.jp/products/p13fbc1/)
+
+<a href="https://www.amazon.co.jp/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88-iPhone7-%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%9C%E3%82%BF%E3%83%B3-RT-P13FBC1-GR/dp/B01KWLGY0Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1488512799&sr=1-63&linkCode=li2&tag=infirmaria112-22&linkId=39a30d7be60d208702bbd3fac95eb5dd" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KWLGY0Q&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li2&o=9&a=B01KWLGY0Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## マウス
 
 ### [Arc Touch Bluetooth Mouse 7MP-00008](https://www.microsoft.com/accessories/ja-jp/products/mice/arc-touch-bluetooth-mouse/7mp-00018)
