@@ -2,6 +2,7 @@
 
 - [ACC](https://tanjoin.github.io/acc)
 - [Account](?q=account)
+- [Appliance.md](?q=appliance)
 - [Book](?q=book)
 - [Bookmarklet](https://tanjoin.github.io/bookmarklet)
 - [Blog（役に立ちそうで役に立たないブログ）](http://tanjoin.hatenablog.com/)
