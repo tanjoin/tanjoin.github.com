@@ -19,7 +19,6 @@ https://tanjo.in
 - [README.md](./README.md)
 - [SONG.md](./SONG.md)
 - [STRUCTURE_OF_SITE.md](./STRUCTURE_OF_SITE.md)
-- [npm-debug.log](./npm-debug.log)
 - POINT
   - [D_POINT.md](./POINT/D_POINT.md)
   - [NTT_GROUP_CARD_POINT.md](./POINT/NTT_GROUP_CARD_POINT.md)
