@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="theme-color" content="#4183C4">
-    <!-- Icon -->
-    <link rel="apple-touch-icon" href="../img/makietan@144.png" />
-    <link rel="shortcut icon" href="../img/makietan@144.png" />
-    <!-- CSS -->
-    <link rel="stylesheet" href="../css/common.css">
-    <link rel="stylesheet" href="../css/mokuji.css" />
-    <title>Point > Ponta ポイント - tanjo.in</title>
-</head>
-<body>
-    <div id="content"></div>
-</body>
-<!--
-フォーマットのやり方
-1. unjson して
-2. 削除 <div>|</div>|<p>|</p>|<tbody>|</tbody>|<thclass="date">|<thclass="place">|<thclass="condition">|<thclass="point">|<tdclass="date">|<tdclass="place">|<tdclass="condition">|<tdclass="point">
-3. 改行 </tr>
-4. |にする <tr>|</th>|</td>
-5. 空白 <pclass="supple">|<pclass="code">
-6. 空白と※ <pclass="pointRecruitLimited">|<pclass="pointRecruit">
-7. 末尾に|
--->
-<script type="text/template" id="markdown">
 # Ponta ポイント
 
 ## ポイント履歴
@@ -298,26 +270,3 @@
 |2016年1月2日|ローソン＊　富田林梅の里一丁目|お買上げ|3||
 |2016年1月2日|-|ポイント失効 [2015年12月31日]|-400 ※キノギフト限定ポイント||
 |2016年1月2日|-|ポイント失効 [2015年12月31日]|-800 ※ショプリエ限定ポイント||
-</script>
-<!-- marked -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
-<script>
-    document.getElementById('content').innerHTML = marked(document.getElementById('markdown').innerHTML);
-</script>
-<!-- Google Analytics -->
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-13243407-11', 'auto');
-    ga('send', 'pageview');
-</script>
-</html>

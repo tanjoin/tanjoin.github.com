@@ -1,0 +1,11 @@
+{
+  "name": "filelist-itemization",
+  "version": "1.0.0",
+  "description": "ファイルをリスト化",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tanjoin",
+  "private": true
+}
