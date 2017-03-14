@@ -4,7 +4,6 @@ https://tanjo.in
 
 ## Contents
 
-- [404.html](./404.html)
 - [ACCOUNT.md](./ACCOUNT.md)
 - [APPLIANCE.md](./APPLIANCE.md)
 - [BOOK.md](./BOOK.md)
@@ -20,7 +19,7 @@ https://tanjo.in
 - [README.md](./README.md)
 - [SONG.md](./SONG.md)
 - [STRUCTURE_OF_SITE.md](./STRUCTURE_OF_SITE.md)
-- [index.html](./index.html)
+- [npm-debug.log](./npm-debug.log)
 - POINT
   - [D_POINT.md](./POINT/D_POINT.md)
   - [NTT_GROUP_CARD_POINT.md](./POINT/NTT_GROUP_CARD_POINT.md)

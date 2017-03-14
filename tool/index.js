@@ -10,7 +10,7 @@ var main = function(argc, argv) {
       linkPath: '.',
       path: '..',
       fileFilter: function(file) {
-        return !/^\./.test(file) && !/CNAME/.test(file);
+        return !/^\./.test(file) && !/\.html/.test(file) && !/CNAME/.test(file);
       },
       dirFilter: function(dir) {
         return !/^\./.test(dir) &&
