@@ -21,9 +21,9 @@ https://tanjo.in
 - [SONG.md](./SONG.md)
 - [STRUCTURE_OF_SITE.md](./STRUCTURE_OF_SITE.md)
 - [index.html](./index.html)
-- point
-  - [d_point.html](./point/d_point.html)
-  - [ntt_group_card_point.html](./point/ntt_group_card_point.html)
-  - [ponta_point.html](./point/ponta_point.html)
-  - [view_thanks_point.html](./point/view_thanks_point.html)
-  - [visa_classic_card_world_point.html](./point/visa_classic_card_world_point.html)
+- POINT
+  - [D_POINT.md](./POINT/D_POINT.md)
+  - [NTT_GROUP_CARD_POINT.md](./POINT/NTT_GROUP_CARD_POINT.md)
+  - [PONTA_POINT.md](./POINT/PONTA_POINT.md)
+  - [VIEW_THANKS_POINT.md](./POINT/VIEW_THANKS_POINT.md)
+  - [VISA_CLASSIC_CARD_WORLD_POINT.md](./POINT/VISA_CLASSIC_CARD_WORLD_POINT.md)
