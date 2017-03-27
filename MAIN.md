@@ -6,7 +6,7 @@
 - [Book](?q=book)
 - [Bookmarklet](https://tanjoin.github.io/bookmarklet)
 - [Blog（役に立ちそうで役に立たないブログ）](http://tanjoin.hatenablog.com/)
-- [Calorie Memo](https://tanjo.github.io/calorie-memo)
+- [Calorie Memo](https://tanjoin.github.io/calorie-memo)
 - [Credit Card](?q=creditcard)
 - [Phone](?q=phone)
 - [Point](?q=point)
