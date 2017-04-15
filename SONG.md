@@ -75,6 +75,28 @@ prompt('Result', result);
 
 | 演奏日付 | 曲名 | 歌手名 |
 | --- | --- | --- |
+| 2017/04/09 | ワンダーステラ | fhana |
+| 2017/04/09 | BEYOND THE TIME(EXPANDED VERSION)《アニメカラオケ》 | TM NETWORK(TMN) |
+| 2017/04/09 | W-Infinity | 三重野瞳 with 影山ヒロノブ |
+| 2017/04/09 | NEXT LEVEL | YU-KI |
+| 2017/04/09 | TRY UNITE! | 中島 愛 |
+| 2017/04/09 | STYX HELIX | MYTH & ROID |
+| 2017/04/09 | ありがとう、だいすき | 茅原実里 |
+| 2017/04/09 | Fortune Future! | petit milady |
+| 2017/04/09 | Journey through the Decade《特撮カラオケ》 | GACKT(Gackt) |
+| 2017/04/09 | fancy baby doll | 田村ゆかり |
+| 2017/04/09 | Love Countdown | 堀江由衣 |
+| 2017/04/09 | おしえてほしいぞぉ、師匠(マスター) | 師匠となやめるオトメ組 |
+| 2017/04/09 | るんるんりる らんらんらら | 小林ゆう |
+| 2017/04/09 | 微笑みの爆弾 | 馬渡松子 |
+| 2017/04/09 | Preserved Roses《本人映像》 | T.M.Revolution×水樹奈々 |
+| 2017/04/09 | Starry Wish | 水瀬いのり |
+| 2017/04/09 | ファッとして桃源郷(TVサイズ)《アニメカラオケ》 | 新庄かなえ(CV:三森すずこ) |
+| 2017/04/09 | みらいいろ | Plastic Tree |
+| 2017/04/09 | 風 吹いてる | 黒田有紀 |
+| 2017/04/09 | テトリアシトリ | 上坂すみれ |
+| 2017/04/09 | 破滅の純情 | ワルキューレ |
+| 2017/04/09 | 青空のラプソディ | fhana |
 | 2017/03/11 | かんちがいロンリーナイト | DROPKIX |
 | 2017/03/11 | Realize! | i☆Ris |
 | 2017/03/11 | Love Never Felt So good feat. Justin Timberlake | MICHAEL JACKSON |
