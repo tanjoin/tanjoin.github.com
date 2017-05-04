@@ -57,9 +57,9 @@ Amazon 履歴 2014年まで.
 
 ## スマホケース
 
-### [レイ・アウト iPhone7 Plus ケース 手帳型 ファブリック スナップボタン スウェット/ライトグレー RT-P13FBC1/GR](http://www.ray-out.co.jp/products/p13fbc1/)
+### [レイ・アウト iPhone7 Plus ケース 手帳型 ファブリック スナップボタン スウェット/ダークネイビー RT-P13FBC1/DN](http://www.ray-out.co.jp/products/p13fbc1/)
 
-<a href="https://www.amazon.co.jp/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88-iPhone7-%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%9C%E3%82%BF%E3%83%B3-RT-P13FBC1-GR/dp/B01KWLGY0Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1488512799&sr=1-63&linkCode=li2&tag=infirmaria112-22&linkId=39a30d7be60d208702bbd3fac95eb5dd" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KWLGY0Q&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li2&o=9&a=B01KWLGY0Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88-iPhone7-%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%9C%E3%82%BF%E3%83%B3-RT-P13FBC1-DN/dp/B01KWLFVP0/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1493914259&sr=1-1&keywords=RT-P13FBC1/DN&linkCode=li3&tag=infirmaria112-22&linkId=7be716b3c18d2838f507ebeb232eb8e0" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KWLFVP0&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B01KWLFVP0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## マウス
 
@@ -112,6 +112,10 @@ Amazon 履歴 2014年まで.
 ### [cheero Energy Plus 12000mAh](http://www.cheero.net/products/cheeroenergyplus/)
 
 <a href="https://www.amazon.co.jp/gp/product/B00JYBILDO/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=dbfc9df96fa2754df5496bef8554b513" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JYBILDO&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00JYBILDO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### [LERVING モバイルバッテリー 10000mAh 2USBポート 薄型 大容量リチウムポリマー 急速充電 出力自動判別機能搭載 iPhone / iPad / Xperia / Android各種他対応 (ホワイト)](http://amzn.to/2qwpYQW)
+
+<a href="https://www.amazon.co.jp/gp/product/B00Q2M3AAM/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=394b2409b7b899894f7a274ea8e3259c" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q2M3AAM&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00Q2M3AAM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## ケーブル
 
