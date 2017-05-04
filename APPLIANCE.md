@@ -8,6 +8,12 @@ Amazon 履歴 2014年まで.
 
 <div id="mokuji" first="2", last="3"></div>
 
+## 洗濯機
+
+### [ES-TG55L｜洗濯機：シャープ](http://www.sharp.co.jp/sentaku/products/estg55l_overview.html)
+
+- [取扱説明書](http://www.sharp.co.jp/support/washer/doc/estg55l_mn.pdf)
+
 ## 電子レンジ
 
 ### [SHARP オーブンレンジ 20L ホワイト系 RE-S205-W](http://www.sharp.co.jp/support/oven/doc/res205_mn.pdf)
