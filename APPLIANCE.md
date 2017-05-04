@@ -81,7 +81,19 @@ Amazon 履歴 2014年まで.
 
 ### [Google Chromecast](https://www.google.com/intl/ja_jp/chromecast/)
 
+## ストレージ
+
+### [HDC-LA3.0](http://www.iodata.jp/lib/product/h/4661.htm)
+
+- [HDC-LAシリーズ | 外付けHDD | IODATA アイ・オー・データ機器](http://www.iodata.jp/product/hdd/hdd/hdc-la/)1
+
+<a href="https://www.amazon.co.jp/gp/product/B00J84E6ZE/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=66c7228043495239e980afd9b7c9a333" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J84E6ZE&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00J84E6ZE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## スキャナ
+
+### [富士通 ScanSnap iX500](http://scansnap.fujitsu.com/jp/product/ix500/)
+
+<a href="https://www.amazon.co.jp/gp/product/B00T2B5L52/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=7c7d15398bf761c0d0aac68fcf5cd4fc" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00T2B5L52&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00T2B5L52" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### [富士通 ScanSnap SV600 FI-SV600](http://scansnap.fujitsu.com/jp/product/sv600/)
 
@@ -118,6 +130,10 @@ Amazon 履歴 2014年まで.
 <a href="https://www.amazon.co.jp/gp/product/B00Q2M3AAM/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=394b2409b7b899894f7a274ea8e3259c" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q2M3AAM&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00Q2M3AAM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## ケーブル
+
+### [Amazonベーシック ハイスピードHDMIケーブル - 1.8m](http://amzn.to/2pK6mG4)
+
+<a href="https://www.amazon.co.jp/gp/product/B014I8SSD0/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=82d60e7419e84f44a38ab504963548fd" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014I8SSD0&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B014I8SSD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### [PLANEX Xperia・X06HT HTC Desire対応 充電&データ転送 MicroUSBケーブル ブラック (パソコン接続専用)BN-XperiaPB](https://www.planex.co.jp/product/bannou/bn-xperiap/)
 
