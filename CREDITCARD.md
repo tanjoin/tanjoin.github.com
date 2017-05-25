@@ -158,7 +158,18 @@ TEL: 06-6223-1350
 - Web明細ポイントサービス **登録中** ／ ポイント種別	**サンクスポイント**
 
 ## [イオンカードセレクト](http://www.aeon.co.jp/creditcard/member/)
+
 ## [JMBローソンPontaカードVisa](http://www.saisoncard.co.jp/index.html)
+
+- ショッピング
+  - ご利用可能枠	30万円
+  - ご利用可能額	300,000円
+- キャッシング
+  - ご利用可能枠	0 万円
+  - ご利用可能額	0 円
+- ブランド
+  - VISA
+
 ## [楽天カード](https://www.rakuten-card.co.jp/e-navi/index.xhtml)
 ## [au WALLET](https://wallet.auone.jp/)
 ## [ANA VISAプリペイドカード](https://www.smbc-card.com/prepaid/brand/card/anacard_allcharge.html)
