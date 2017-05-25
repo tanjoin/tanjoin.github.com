@@ -180,3 +180,6 @@ TEL: 06-6223-1350
 ## [おさいふPonta](http://www.osaifuponta.lawson.co.jp/)
 ## [ウェブマネー ウォレット](https://service.webmoney.jp/wallet/spd.jsp?tmpl=walletLogin)
 ## [WebMoney Card](http://www.webmoney.jp/variation/wmcard.html)
+## LINEpayカード
+## ソラチカカード
+## LINEpayカード
