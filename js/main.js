@@ -84,6 +84,7 @@ tanjoin.after = function() {
     });
   });
   
+  new Clipboard('.clipboard');
 };
 
 window.onload = function() {
