@@ -16,7 +16,7 @@
 - [二郎](?q=jiro)
 - [飯（すずろ庵）](http://tanjoin.hatenablog.jp/)
 - [Structure of site](?q=structure_of_site)
-- [水道料金](?q=water-ball)
+- [水道料金](?q=water-bill)
 
 ## Deprecated
 
