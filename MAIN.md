@@ -2,6 +2,7 @@
 
 - [ACC](https://tanjoin.github.io/acc)
 - [Account](?q=account)
+- [Anime](?q=anime)
 - [Appliance](?q=appliance)
 - [Book](?q=book)
 - [Bookmarklet](https://tanjoin.github.io/bookmarklet)
@@ -15,6 +16,7 @@
 - [二郎](?q=jiro)
 - [飯（すずろ庵）](http://tanjoin.hatenablog.jp/)
 - [Structure of site](?q=structure_of_site)
+- [水道料金](?q=water-ball)
 
 ## Deprecated
 
