@@ -5,6 +5,7 @@ https://tanjo.in
 ## Contents
 
 - [ACCOUNT.md](./ACCOUNT.md)
+- [ANIME.md](./ANIME.md)
 - [APPLIANCE.md](./APPLIANCE.md)
 - [BOOK.md](./BOOK.md)
 - [CREDITCARD.md](./CREDITCARD.md)
