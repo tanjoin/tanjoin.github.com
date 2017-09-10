@@ -10,7 +10,7 @@ Amazon 履歴 2014年まで.
 
 ## 体重計
 
-- [体重体組成計 HBF-212　カラダスキャン｜体重体組成計・体脂肪計｜商品情報 | オムロン ヘルスケア](http://www.healthcare.omron.co.jp/product/hbf/hbf-212.html)
+### [体重体組成計 HBF-212　カラダスキャン](http://www.healthcare.omron.co.jp/product/hbf/hbf-212.html)
 
 - [取扱説明書](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.healthcare.omron.co.jp%2Fsupport%2Fdownload%2Fmanual%2Fpdf%2FHBF-212_E_m.pdf)
 
