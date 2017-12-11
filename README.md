@@ -1,6 +1,6 @@
 # tanjo.in
 
-https://tanjo.in
+https://tanjoin.github.io
 
 ## Contents
 
