@@ -7,4 +7,4 @@
 - [携帯電話](https://docs.google.com/spreadsheets/d/10Z97rmXuuLKra31T5f5aLvtNNKbu2gHrNemgmUjXGkA/edit?usp=sharing)
 - [カロリー](https://docs.google.com/spreadsheets/d/1EAQ2jtBbQC3DOs3fFyfBIetTAm8hMPIFG06fa-hYMTI/edit?usp=sharing)
 
-- [毎日やること](https://tanjo.in/everyday-tasks/)
+- [毎日やること](https://tanjoin.github.io/everyday-tasks/)
