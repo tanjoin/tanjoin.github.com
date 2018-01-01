@@ -1,7 +1,6 @@
 # [tanjo.in](https://github.com/tanjoin/tanjoin.github.com)
 
 - [ACC](https://tanjoin.github.io/acc)
-  - 
 - [Account](?q=account)
 - [Anime](?q=anime)
 - [Appliance](?q=appliance)
