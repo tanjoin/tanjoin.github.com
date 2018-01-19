@@ -8,6 +8,12 @@ Amazon 履歴 2014年まで.
 
 <div id="mokuji" first="2", last="3"></div>
 
+## マッサージ機
+
+### [オムロン マッサージクッション ブラウン HM-341-BW](http://www.healthcare.omron.co.jp/product/etc/hm/hm-341.html)
+
+<a href="https://www.amazon.co.jp/gp/product/B007RA5KS8/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=317b83336b0ed16487659c6bbcce02a2" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RA5KS8&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B007RA5KS8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## 体重計
 
 ### [体重体組成計 HBF-212　カラダスキャン](http://www.healthcare.omron.co.jp/product/hbf/hbf-212.html)
@@ -21,6 +27,12 @@ Amazon 履歴 2014年まで.
 - [取扱説明書](http://www.sharp.co.jp/support/washer/doc/estg55l_mn.pdf)
 
 <a href="https://www.amazon.co.jp/SHARP-%E3%82%BF%E3%83%86%E5%9E%8B%E6%B4%97%E6%BF%AF%E4%B9%BE%E7%87%A5%E6%A9%9F-%E7%A9%B4%E3%81%AA%E3%81%97%E6%A7%BD%E3%82%AB%E3%83%93%E3%81%8E%E3%82%89%E3%81%84-%E6%B4%97%E6%BF%AF%E5%AE%B9%E9%87%8F5-5kg-ES-TG55L/dp/B004I9FH98/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=infirmaria112-22&linkId=d832143f838b0d5aac33d1fcb6948326" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004I9FH98&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B004I9FH98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## 掃除機
+
+### Excelvan 充電式コードレス ハンディクリーナー FD-CMV(B)
+
+<a href="https://www.amazon.co.jp/gp/product/B01FHBO4YO/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=d236d53ef55ff6b2ae1e79e21874f344" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FHBO4YO&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B01FHBO4YO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## 電子レンジ
 
@@ -51,6 +63,12 @@ Amazon 履歴 2014年まで.
 
 <a href="https://www.amazon.co.jp/Apple-%E5%9B%BD%E5%86%85%E7%89%88SIM%E3%83%95%E3%83%AA%E3%83%BC-iPhone7-Black-4-7%E3%82%A4%E3%83%B3%E3%83%81/dp/B01LXEI6GS/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1485580287&sr=1-3&keywords=iPhone7+Black+32gb&linkCode=li3&tag=infirmaria112-22&linkId=55ae58a51be36b712499f7f889dd4dae" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXEI6GS&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B01LXEI6GS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+### [arrows Be F-05J](https://www.nttdocomo.co.jp/product/smart_phone/f05j/)
+
+<a href="https://www.amazon.co.jp/dp/B071W8HJ5Q/ref=as_li_ss_il?_encoding=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=511a9a160e51375c893c21fcfc6b5935" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071W8HJ5Q&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B071W8HJ5Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## 携帯電話 (使用終了)
+
 ### [Xperia™ A4 SO-04G](http://www.sonymobile.co.jp/xperia/docomo/so-04g/)
 
 <a href="https://www.amazon.co.jp/Xperia-Compact-SO-02G-docomo-black/dp/B00R8TLPSC/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1485580334&sr=1-7&keywords=xperia+a4&linkCode=li3&tag=infirmaria112-22&linkId=4a6c362f4718247e886bb0973b141d83" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8TLPSC&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00R8TLPSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -66,6 +84,16 @@ Amazon 履歴 2014年まで.
 ### [レイ・アウト iPhone7 Plus ケース 手帳型 ファブリック スナップボタン スウェット/ダークネイビー RT-P13FBC1/DN](http://www.ray-out.co.jp/products/p13fbc1/)
 
 <a href="https://www.amazon.co.jp/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88-iPhone7-%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%83%9C%E3%82%BF%E3%83%B3-RT-P13FBC1-DN/dp/B01KWLFVP0/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1493914259&sr=1-1&keywords=RT-P13FBC1/DN&linkCode=li3&tag=infirmaria112-22&linkId=7be716b3c18d2838f507ebeb232eb8e0" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KWLFVP0&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B01KWLFVP0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## タブレットケース
+
+### iZivoo　pcケース
+
+<a href="https://www.amazon.co.jp/gp/product/B072PTYZM1/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=226361d2450840fe3f1eee52bfbdd9fe" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072PTYZM1&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B072PTYZM1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### [Palmo for iPad Pro10.5](http://makers.ecbb.jp/palmo-pad/)
+
+<a href="https://www.amazon.co.jp/gp/product/B077HRCK62/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=2e91c8c2019e8c82ef23c2cecfbc267e" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077HRCK62&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B077HRCK62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## マウス
 
@@ -104,6 +132,12 @@ Amazon 履歴 2014年まで.
 ### [富士通 ScanSnap SV600 FI-SV600](http://scansnap.fujitsu.com/jp/product/sv600/)
 
 <a href="https://www.amazon.co.jp/gp/product/B00DBLQ82E/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=4dfcab2428b02ce1f61e0cbd65c9828b" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DBLQ82E&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00DBLQ82E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## ディスクカッター
+
+### [909-4](http://www.jielisi.com/ejielisi/product-show.asp?id=550)
+
+<a href="https://www.amazon.co.jp/gp/product/B00LX398CY/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=21ce99460eb56849a631bd2e3638a7ab" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LX398CY&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B00LX398CY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## カメラ
 
