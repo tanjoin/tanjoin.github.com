@@ -14,6 +14,10 @@ Amazon 履歴 2014年まで.
 
 <a href="https://www.amazon.co.jp/gp/product/B007RA5KS8/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=317b83336b0ed16487659c6bbcce02a2" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RA5KS8&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B007RA5KS8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+### 購入日
+
+2017/09/22
+
 ## 体重計
 
 ### [体重体組成計 HBF-212　カラダスキャン](http://www.healthcare.omron.co.jp/product/hbf/hbf-212.html)
