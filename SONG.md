@@ -65,6 +65,25 @@ for (var i = 1; i <= count; i++) {
 prompt('Result', result);
 ```
 
+### りれき
+
+```
+var div = document.querySelector('#historyTabPanel > div > div > div:nth-child(5)');
+var result = '';
+var data = [...div.children].map((ul) => ul.children[0]).map((li) => {
+  return {
+    rank: li.querySelector('div:nth-child(1) > a > div > p.usk-score > span.usk-br-sp > strong').innerText,
+    headcount: li.querySelector('div:nth-child(1) > a > div > p.usk-score > span.usk-br-sp > var').innerText,
+    point: li.querySelector('div:nth-child(1) > a > div > p.usk-score > span:nth-child(2) > var').innerText,
+    name: li.querySelector('div:nth-child(1) > a > div > p.usk-list-gp > var:nth-child(1)').innerText,
+    singer: li.querySelector('div:nth-child(1) > a > div > p.usk-list-gp > var:nth-child(3)').innerText
+  };
+}).map((item) => {
+    return '|' + item.rank + '|' + item.headcount + '人|' + item.point + '点|' + item.name + '|' + item.singer + '|';
+}).join('\n');
+prompt('Result', data);
+```
+
 ## 1位獲得曲 <small>2018/03/09</small>
 
 | 演奏日付 | 得点 | 曲名 | 歌手名 |
@@ -1079,13 +1098,48 @@ prompt('Result', result);
 
 ### りれき
 
-#### 2018年3月
+#### 2018年3月（暫定: 2018/03/09）
 
-
+|順位|人数|点数|曲名|歌手名|
+|---|---|---|---|---|
+|1位|1人|88.581点|そばにいられるだけで|blue drops(吉田仁美&イカロス(早見沙織))|
+|1位|3人|85.020点|100%サイダーガール|petit milady|
+|2位|2人|85.056点|サイケデリック純情|上坂すみれ|
+|2位|3人|87.914点|Realize!《うたいり》|i☆Ris|
+|3位|3人|85.772点|Make it!《うたいり》|i☆Ris|
+|4位|31人|88.141点|Be The One《ガイドボーカル入り》|PANDORA feat.Beverly|
+|4位|4人|90.146点|終わらないメロディーを歌いだしました。|小松未可子|
+|14位|23人|89.131点|euphoric field〈English〉|ELISA|
+|18位|25人|83.575点|fancy baby doll|田村ゆかり|
+|18位|34人|87.524点|Enter Enter MISSION!|西住みほ(CV.渕上舞)、武部沙織(CV.茅野愛衣)、五十鈴華(CV.尾崎真実)、秋山優花里(CV.中上育実)、冷泉麻子(CV.井口裕香)|
+|56位|94人|86.270点|Be The One (TV オープニングサイズ)|PANDORA feat.Beverly|
+|488位|904人|84.921点|ようこそジャパリパークへ|どうぶつビスケッツ×PPP|
 
 #### 2018年2月
 
-
+|順位|人数|点数|曲名|歌手名|
+|---|---|---|---|---|
+|2位|3人|90.128点|かんちがいロンリーナイト|DROPKIX|
+|2位|3人|88.942点|テトリアシトリ|上坂すみれ|
+|3位|3人|85.479点|『Love is Everywhere』|moumoon|
+|3位|6人|86.225点|Make it!《うたいり》|i☆Ris|
+|5位|18人|84.942点|夏色プレゼント|あおい(CV:井口裕香)ひなた(CV:阿澄佳奈)かえで(CV:日笠陽子)ここな(CV:小倉唯)|
+|5位|10人|85.452点|ビジュメニア|悠木碧|
+|5位|9人|84.018点|ハツジョウジカケラブゲーム|悠木碧|
+|7位|22人|91.053点|終わらないメロディーを歌いだしました。|小松未可子|
+|7位|10人|83.610点|毎日コハルビヨリ|あおい(CV:井口裕香)ひなた(CV:阿澄佳奈)|
+|8位|9人|81.212点|文豪でGO!|上坂すみれ|
+|12位|17人|83.849点|ハートをつければかわいかろう|上坂すみれ|
+|13位|42人|87.009点|恋する図形 (cubic futurismo)|上坂すみれ|
+|16位|27人|82.868点|ヤバい○○|上坂すみれ|
+|17位|27人|83.918点|クピドゥレビュー|悠木碧|
+|34位|59人|85.537点|永遠ラビリンス|悠木碧|
+|54位|101人|85.783点|KISSして|福山雅治|
+|102位|343人|87.258点|Journey through the Decade《特撮カラオケ》|GACKT(Gackt)|
+|118位|400人|88.638点|青空のラプソディ《本人映像》|fhana|
+|290位|365人|85.180点|フリージア|Uru|
+|589位|1032人|86.253点|POP TEAM EPIC|上坂すみれ|
+|3016位|4284人|88.444点|君の知らない物語《本人映像》|supercell|
 
 #### 2017年4月
 
