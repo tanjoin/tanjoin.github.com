@@ -74,7 +74,7 @@ tanjoin.after = function() {
 
   // chart
   Chart.run();
-  
+
   $('table').each(function () {
     $(this).tablesorter({
       sortList: [
@@ -83,8 +83,8 @@ tanjoin.after = function() {
       ]
     });
   });
-  
-  new Clipboard('.clipboard');
+
+  new ClipboardJS('.clipboard');
 };
 
 window.onload = function() {
