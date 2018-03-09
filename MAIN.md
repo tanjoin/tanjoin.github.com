@@ -11,7 +11,7 @@
 - [Credit Card](?q=creditcard)
 - [Phone](?q=phone)
 - [Point](?q=point)
-  - [dポイント](?q=point/d_point.md)
+  - [dポイント](?q=point/d_point)
   - [NTTグループカードポイント](?q=point/ntt_group_card_point)
   - [Pontaポイント](?q=point/ponta_point)
   - [ビューサンクスポイント](?q=point/view_thanks_point)
