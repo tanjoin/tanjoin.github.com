@@ -19,7 +19,7 @@
 - [Song](?q=song)
   - [1位獲得曲](?q=song/first_place)
   - [マイうた](?q=song/my_song)
-  - [全国採点グランプリ 歴代BEST100](?q=zenkoku_saiten_grand_prix_rekidai_best100)
+  - [全国採点グランプリ 歴代BEST100](?q=song/zenkoku_saiten_grand_prix_rekidai_best100)
   - 履歴
     - 2018年
       - [3月(仮)](?q=song/rireki/201803[仮])
