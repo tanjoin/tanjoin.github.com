@@ -1,73 +1,16 @@
 # Credit Card
 
+- [ファミマTカード](./CARDS/FAMIMA_T_CARD.md)
+- [JMBローソンPontaカード](./CARDS/JMB_LAWSON_PONTA_CARD.md)
+- [リクルートカード(JCB)](./CARDS/RECRUIT_CARD_JCB.md)
+- **未整理** [セブンカード・プラス](./CARDS/SEVEN_CARD_PLUS.md)
+- **未整理** [NTTグループカード](./CARDS/NTT_GROUP_CARD.md)
+
+---
+
 [保有しているクレジットカード一覧](http://tanjoin.hatenablog.com/entry/creditcard)
 
 <div id="mokuji" first="2" last="2"></div>
-
-## [セブンカード・プラス](http://www.7card.co.jp/)
-
-### Apple Payご利用上の注意点
-
-セブン‐イレブン、イトーヨーカドー、アリオでご利用いただいた場合に、提供されるポイント・割引などの優待サービスが受けられません。
-
-### 設定
-
-- ブランド	　**ＶＩＳＡ**
-- 支払い名人 **未登録**
-- MyJチェック **登録中**
-- ETC **未登録**
-- 「融資ご利用内容のお知らせ」WEB化 **登録中**
-- VISA認証サービス **登録済み**
-
-### 作業手順
-
-#### 情報ジャンルの変更で不要なメールを解除
-
-お客様情報の変更 → 情報ジャンルの変更
-
-#### Eメールの配信停止
-
-お客様情報の変更 → Eメールアドレスの変更・各種Eメールの配信登録／停止
-
-##### 注意点
-
-メールの停止ごときに
-
-- WEBサービスパスワード
-- セキュリティコード
-- カードの有効期限
-
-が求められる
-
-## [NTTグループカード](https://www.ntt-card.com/)
-
-### キャンペーン
-
-- [キャンペーン | NTTグループカード](https://www.ntt-card.com/campaign/index.shtml)
-
-### 設定
-
-- ブランド **ＶＩＳＡ**　
-- 総利用枠 **８０万円**
-- Web明細 **○**
-- 「キャッシングサービスご利用内容のお知らせ」送付は **不要**
-
-> ※レギュラーカード会員さまは、Web明細サービスのご利用で年会費1,200円（税抜）が無料となります。
-
-### 備考
-
-還元率では他より劣るのでよほどのことがない限り使わないほうがいい
-
-## [ファミマTカード](http://www.family.co.jp/ft/)
-
-### 設定
-
-- Web 明細 **[○](http://ftcard.pocketcard.co.jp/goriyou/webmeisai.html)**
-- カード利用可能枠	**100,000円**
-- メルマガ登録
-- 「ずっと全額支払い」
-- ブランド	　**JCB**　
-- [ファミランク](https://tsite.jp/rank/) **ブロンズ**
 
 ## [リクルートカード(VISA)](https://www2.cr.mufg.jp/newsplus/)
 
@@ -80,20 +23,6 @@
 - 三菱UFJニコスからのお得なメール配信	**希望しない**
 - WEB明細チェックのご登録状況 **登録されています（ご利用明細書の郵送停止）**
 - 登録型リボ「楽Ｐａｙ」（[キャンペーン](https://www2.cr.mufg.jp/newsplus/campaign/c03/20151221_2.html) の関係上登録）・元利定額リボ払い方式・ご利用可能枠	1,500,000円・お支払いコース	楽Ｐａｙ１０万円
-
-## [リクルートカード(JCB)](https://my.jcb.co.jp/Login)
-
-### キャンペーン
-- [ｅ-ショッピング広場](https://my.jcb.co.jp/iss-pc/member/eshopping/eshopping.html?actionType=hiroba)
-- [インターネットショッピングで20人にひとり1,000円キャッシュバック！](https://my.jcb.co.jp/iss-pc/member/eshopping/eshopping.html?actionType=cashback)
-- [キャンペーン登録・一覧・参加状況照会](https://my.jcb.co.jp/iss-pc/member/campaign/campaignList.html)
-
-### 設定
-- 「MyJチェック」登録状況 **登録中** / Without方式 / お支払コース 元金定額コース 1,000,000 円
-- 「支払い名人」登録状況 **登録中**
-- 総枠 **30万円**
-- 安心お知らせメール **登録** (2万円を基準に設定)
-- 「融資ご利用内容のお知らせ」WEB化 **登録中**
 
 ## [Amazon マスタークラシック](https://www.smbc-card.com/mem/index.jsp)
 
@@ -162,18 +91,6 @@ TEL: 06-6223-1350
 - Web明細ポイントサービス **登録中** ／ ポイント種別	**サンクスポイント**
 
 ## [イオンカードセレクト](http://www.aeon.co.jp/creditcard/member/)
-
-## [JMBローソンPontaカードVisa](http://www.saisoncard.co.jp/index.html)
-
-- ショッピング
-  - ご利用可能枠	30万円
-  - ご利用可能額	300,000円
-- キャッシング
-  - ご利用可能枠	0 万円
-  - ご利用可能額	0 円
-- ブランド
-  - VISA
-
 ## [楽天カード](https://www.rakuten-card.co.jp/e-navi/index.xhtml)
 ## [au WALLET](https://wallet.auone.jp/)
 ## [ANA VISAプリペイドカード](https://www.smbc-card.com/prepaid/brand/card/anacard_allcharge.html)

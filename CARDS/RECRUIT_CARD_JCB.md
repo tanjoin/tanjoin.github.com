@@ -46,4 +46,10 @@ JCB
 - QPモバイル(MyJCB入会)
 
 ## 備考
-(TBD)
+### キャンペーン
+- [ｅ-ショッピング広場](https://my.jcb.co.jp/iss-pc/member/eshopping/eshopping.html?actionType=hiroba)
+- [インターネットショッピングで20人にひとり1,000円キャッシュバック！](https://my.jcb.co.jp/iss-pc/member/eshopping/eshopping.html?actionType=cashback)
+- [キャンペーン登録・一覧・参加状況照会](https://my.jcb.co.jp/iss-pc/member/campaign/campaignList.html)
+### 設定
+- 安心お知らせメール **登録** (2万円を基準に設定)
+- 「融資ご利用内容のお知らせ」WEB化 **登録中**
