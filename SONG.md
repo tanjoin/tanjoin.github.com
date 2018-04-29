@@ -8,6 +8,27 @@
 
 | 演奏日付 | 曲名 | 歌手名 |
 | --- | --- | --- |
+| 2018/04/22 | 新宝島《生演奏》 | サカナクション |
+| 2018/04/22 | 千本桜《本人映像》 | WhiteFlame feat.初音ミク |
+| 2018/04/22 | Be The One《ガイドボーカル入り》 | PANDORA feat.Beverly |
+| 2018/04/22 | LAST TRAIN〈新しい朝〉 | knotlamp |
+| 2018/04/22 | Journey through the Decade《特撮カラオケ》 | GACKT(Gackt) |
+| 2018/04/22 | RPG | school food punishment |
+| 2018/04/22 | スピラーレ | 牧野由依 |
+| 2018/04/22 | 瞬き《本人映像》 | back number |
+| 2018/04/22 | 1/6の夢旅人2002 | 樋口了一 |
+| 2018/04/22 | さよならbyebye | 馬渡松子 |
+| 2018/04/22 | 青空のラプソディ《本人映像》 | fhana |
+| 2018/04/22 | Crystal Energy | 栗林みな実 |
+| 2018/04/22 | Your Voice | Rhodanthe* |
+| 2018/04/22 | フリージア | Uru |
+| 2018/04/22 | 瞬き《本人映像》 | back number |
+| 2018/04/22 | Fortune Future! | petit milady |
+| 2018/04/22 | サイケデリック純情 | 上坂すみれ |
+| 2018/04/22 | Be The One《ガイドボーカル入り》 | PANDORA feat.Beverly |
+| 2018/04/22 | 終わらないメロディーを歌いだしました。 | 小松未可子 |
+| 2018/04/22 | スピラーレ | 牧野由依 |
+| 2018/04/22 | only my railgun《本人映像》 | fripSide |
 | 2018/03/03 | euphoric field〈English〉 | ELISA |
 | 2018/03/03 | Be The One《ガイドボーカル入り》 | PANDORA feat.Beverly |
 | 2018/03/03 | fancy baby doll | 田村ゆかり |
