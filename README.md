@@ -18,6 +18,7 @@ https://tanjoin.github.io
 - [PROFILE.md](./PROFILE.md)
 - [RAMEN.md](./RAMEN.md)
 - [README.md](./README.md)
+- [SHOPPING.md](./SHOPPING.md)
 - [SONG.md](./SONG.md)
 - [STRUCTURE_OF_SITE.md](./STRUCTURE_OF_SITE.md)
 - [WATER-BILL.md](./WATER-BILL.md)

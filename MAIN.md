@@ -16,6 +16,7 @@
   - [Pontaポイント](?q=point/ponta_point)
   - [ビューサンクスポイント](?q=point/view_thanks_point)
   - [VISAクラシックカード ワールドポイント](?q=point/visa_classic_card_world_point)
+- [Shopping](?q=shopping)
 - [Song](?q=song)
   - [1位獲得曲](?q=song/first_place)
   - [マイうた](?q=song/my_song)
