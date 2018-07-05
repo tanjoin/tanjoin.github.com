@@ -10,7 +10,6 @@ https://tanjoin.github.io
 - [BOOK](BOOK.md)
 - [CREDITCARD](CREDITCARD.md)
 - [JIRO](JIRO.md)
-- [MAIN](MAIN.md)
 - [PHONE](PHONE.md)
 - [PLACE](PLACE.md)
 - [POINT](POINT.md)
@@ -35,6 +34,8 @@ https://tanjoin.github.io
   - [T_POINT](POINT/T_POINT.md)
   - [VIEW_THANKS_POINT](POINT/VIEW_THANKS_POINT.md)
   - [VISA_CLASSIC_CARD_WORLD_POINT](POINT/VISA_CLASSIC_CARD_WORLD_POINT.md)
+- SHOPPING
+  - [ビックカメラ](SHOPPING/ビックカメラ.md)
 - SONG
   - [FIRST_PLACE](SONG/FIRST_PLACE.md)
   - [MY_SONG](SONG/MY_SONG.md)

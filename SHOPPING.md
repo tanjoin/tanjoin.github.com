@@ -1,13 +1,13 @@
 # 買い物
 
+## 店舗
+
+## ポイントサイト
+
 - [優待施設 \| 暮らしのマネーサイト](http://area.aeon.co.jp/)
 - [スペシャルクーポン | dポイント](https://www.premium-coupon.jp/docomo/)
 - [dポイントクラブ国内クーポン \| d POINT CLUB](http://smt.docomo.ne.jp/portal/dpoint/src/dpc_web_coupon_category.html)
 - [プラチナクーポン｜d POINT CLUB](https://dpoint.jp/ctrw/web/coupon/platinum_coup.html)
-
-## ビックカメラ.com
-
-- [JALマイレージバンク](http://partner.jal.co.jp/site/shop1/?tp=10589)
 
 ## カラオケ館
 
