@@ -4,7 +4,7 @@ var tanjoin = {};
 tanjoin.MARKDOWN_CONTENT_404 = "# 404 Not Found\n\nページが見つかりません.";
 
 // デフォルトページ
-tanjoin.DEFAULT_PAGE = "MAIN";
+tanjoin.DEFAULT_PAGE = "README";
 
 // BASE url
 tanjoin.BASE_URL = "https://tanjoin.github.io/";
@@ -52,7 +52,7 @@ tanjoin.onload = function(urlQuery) {
   }
   tanjoin.getMarkdown(urlQuery.q, function() {
     var script;
-    tanjoin.markdown = this.responseText;
+    tanjoin.markdown = this.responseText.replace(/\[(.*)\]\((.*)\.md\)/g, "[$1](?q=$2)");
     if (!tanjoin.markdown || this.status === 404) {
       tanjoin.markdown = tanjoin.MARKDOWN_CONTENT_404;
     }
