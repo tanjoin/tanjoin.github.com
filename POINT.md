@@ -13,3 +13,10 @@
 - [ビューサンクスポイント](point/view_thanks_point.html) ← [ビューカード](https://www.jreast.co.jp/card/thankspoint/)
 - [Suica ポイントクラブ](https://docs.google.com/spreadsheets/d/1S2UefAvdkvppifYL-2peKz7dCNxN2phYjrpQPXzS6-w/edit?usp=sharing) ← [Suicaポイントクラブ](http://www.jreast.co.jp/suicapoint/index.html)
 - [Google Play のクレジット](https://docs.google.com/spreadsheets/d/1WqApnxgF_6htxHN-bwRMol-u7QXs14s0vS9fQVGmlp4/edit?usp=sharing) ← [Google Play](https://play.google.com/store/account)
+
+## ポイントサイト
+
+- [優待施設 \| 暮らしのマネーサイト](http://area.aeon.co.jp/)
+- [スペシャルクーポン | dポイント](https://www.premium-coupon.jp/docomo/)
+- [dポイントクラブ国内クーポン \| d POINT CLUB](http://smt.docomo.ne.jp/portal/dpoint/src/dpc_web_coupon_category.html)
+- [プラチナクーポン｜d POINT CLUB](https://dpoint.jp/ctrw/web/coupon/platinum_coup.html)
