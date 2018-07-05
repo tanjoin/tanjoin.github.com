@@ -33,7 +33,7 @@ tanjoin.getUrlQuery = function() {
 // @param {string} name - Markdown 名。 .md は取り除くこと。
 // @param {Requester~requestCallback} callback - リクエスト結果。
 tanjoin.getMarkdown = function(name, callback) {
-  tanjoin.requestGet(tanjoin.BASE_URL + name.toUpperCase() + tanjoin.MARKDOWN_FILENAME_EXTENSION, callback);
+  tanjoin.requestGet(tanjoin.BASE_URL + name + tanjoin.MARKDOWN_FILENAME_EXTENSION, callback);
 };
 
 // GET リクエスト
