@@ -1,10 +1,10 @@
 # Credit Card
 
-- [ファミマTカード](?q=CARDS/FAMIMA_T_CARD)
-- [JMBローソンPontaカード](?q=CARDS/JMB_LAWSON_PONTA_CARD)
-- [リクルートカード(JCB)](?q=CARDS/RECRUIT_CARD_JCB)
-- **未整理** [セブンカード・プラス](?q=CARDS/SEVEN_CARD_PLUS)
-- **未整理** [NTTグループカード](?q=CARDS/NTT_GROUP_CARD)
+- [ファミマTカード](CARDS/FAMIMA_T_CARD.md)
+- [JMBローソンPontaカード](CARDS/JMB_LAWSON_PONTA_CARD.md)
+- [リクルートカード(JCB)](CARDS/RECRUIT_CARD_JCB.md)
+- **未整理** [セブンカード・プラス](CARDS/SEVEN_CARD_PLUS.md)
+- **未整理** [NTTグループカード](CARDS/NTT_GROUP_CARD.md)
 
 ---
 
