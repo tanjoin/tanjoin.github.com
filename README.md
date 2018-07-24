@@ -4,7 +4,6 @@ https://tanjoin.github.io
 
 ## Contents
 
-- [ACCOUNT](ACCOUNT.md)
 - [ANIME](ANIME.md)
 - [APPLIANCE](APPLIANCE.md)
 - [BOOK](BOOK.md)
@@ -19,6 +18,7 @@ https://tanjoin.github.io
 - [docomo](docomo.md)
 - [おみやげ](おみやげ.md)
 - [このサイトについて](このサイトについて.md)
+- [アカウント](アカウント.md)
 - [カメラ](カメラ.md)
 - [三井住友銀行](三井住友銀行.md)
 - [水道代](水道代.md)
@@ -54,7 +54,7 @@ https://tanjoin.github.io
     - [201804](SONG/RIREKI/201804.md)
 - おみやげ
   - [ねんりん家](おみやげ/ねんりん家.md)
-  - [東京カラメリゼ](おみやげ/東京カラメリゼ.md)
+  - [東京カラメリゼ](おみやげ/東京カラメリゼ.md)
   - [銀座-あけぼの](おみやげ/銀座-あけぼの.md)
 - ショッピング
   - [Amazon.co.jp](ショッピング/Amazon.co.jp.md)
