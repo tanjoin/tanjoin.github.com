@@ -30,6 +30,7 @@
 
 (14)
 (15)
+(16)
 
 <!-- (1) -->
 <!-- (2) -->
@@ -46,7 +47,7 @@
 <!-- (13) -->
 <a href="http://www.amazon.co.jp/gp/product/4757544901/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4757544901&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757544901&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4757544901" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.co.jp/gp/product/4757549199/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4757549199&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757549199&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4757549199" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<!-- (16) -->
+<a href="https://www.amazon.co.jp/%E5%92%B2-Saki-16-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B0%8F%E6%9E%97-%E7%AB%8B/dp/4757551932/ref=as_li_ss_il?s=books&ie=UTF8&qid=1538240464&sr=1-1&keywords=%E5%92%B2+16&linkCode=li3&tag=infirmaria112-22&linkId=96be673076f5954b7257451abe879479&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757551932&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=4757551932" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <!-- (17) -->
 
 ### 紅殻のパンドラ
@@ -79,7 +80,7 @@
 (7)
 (8)
 (9)
-<!-- (10) -->
+(10)
 
 <a href="http://www.amazon.co.jp/gp/product/4041033292/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4041033292&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041033292&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4041033292" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.co.jp/gp/product/4041033306/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4041033306&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041033306&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4041033306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -90,6 +91,7 @@
 <a href="https://www.amazon.co.jp/%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9-7-%E8%A7%92%E5%B7%9D%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%BC%E3%82%B9-%E6%B0%B4%E7%84%A1%E6%9C%88-%E3%81%99%E3%81%86/dp/4041048788/ref=as_li_ss_il?s=books&ie=UTF8&qid=1532279752&sr=1-4&keywords=%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9&linkCode=li3&tag=infirmaria112-22&linkId=df90dac730125d0c9fa0d3474ccfefb0" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041048788&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=4041048788" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="https://www.amazon.co.jp/%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9-8-%E8%A7%92%E5%B7%9D%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%BC%E3%82%B9-%E6%B0%B4%E7%84%A1%E6%9C%88-%E3%81%99%E3%81%86/dp/404105995X/ref=as_li_ss_il?s=books&ie=UTF8&qid=1532279752&sr=1-3&keywords=%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9&linkCode=li3&tag=infirmaria112-22&linkId=60272bd869e0812d2ea5948d6b1088cb" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=404105995X&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=404105995X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="https://www.amazon.co.jp/%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9-9-%E8%A7%92%E5%B7%9D%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%BC%E3%82%B9-%E6%B0%B4%E7%84%A1%E6%9C%88-%E3%81%99%E3%81%86/dp/4041065623/ref=as_li_ss_il?s=books&ie=UTF8&qid=1532279752&sr=1-2&keywords=%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9&linkCode=li3&tag=infirmaria112-22&linkId=a844bff0490f1d260e08a27d0720a618" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041065623&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=4041065623" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9-10-%E8%A7%92%E5%B7%9D%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%BC%E3%82%B9-%E6%B0%B4%E7%84%A1%E6%9C%88-%E3%81%99%E3%81%86/dp/4041070481/ref=as_li_ss_il?s=books&ie=UTF8&qid=1538240408&sr=1-1&keywords=%E3%83%97%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A9+10&linkCode=li3&tag=infirmaria112-22&linkId=82748bc67a8b6e69c92ba561b85bae3c&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041070481&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=4041070481" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### To LOVEる -とらぶる- ダークネス
 
