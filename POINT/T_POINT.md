@@ -1,4 +1,4 @@
-# T ポイント
+# [T ポイント](https://tsite.jp/tp/index.pl?xpg=PCPT0102)
 
 ## ポイント履歴
 
