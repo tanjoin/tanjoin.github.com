@@ -1,6 +1,7 @@
 # tanjo.in
 
-https://tanjoin.github.io
+- <https://tanjoin.github.io>
+- [Github](https://github.com/tanjoin/tanjoin.github.com/)
 
 ## Contents
 
