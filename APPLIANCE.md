@@ -38,6 +38,14 @@ Amazon 履歴 2014年まで.
 
 <a href="https://www.amazon.co.jp/gp/product/B01FHBO4YO/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=d236d53ef55ff6b2ae1e79e21874f344" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FHBO4YO&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B01FHBO4YO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## ドライヤー
+
+### イズミ IZUMI DR-1175-A \[ドライヤー ブルー 小型ヘアドライヤー quick Dry\]
+
+2019/01/12 20:35 故障
+
+<a href="https://www.amazon.co.jp/%E6%B3%89%E7%B2%BE%E5%99%A8%E8%A3%BD%E4%BD%9C%E6%89%80-DR-1175A-%E3%82%A4%E3%82%BA%E3%83%9F-%E3%82%A4%E3%82%BA%E3%83%9F%E3%83%98%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%96%E3%83%AB%E3%83%BC/dp/B000OXH3HG/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=infirmaria112-22&linkId=dc98cb22b1b0b910478f0ede85831790&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000OXH3HG&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=B000OXH3HG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## 電子レンジ
 
 ### [SHARP オーブンレンジ 20L ホワイト系 RE-S205-W](http://www.sharp.co.jp/support/oven/doc/res205_mn.pdf)
