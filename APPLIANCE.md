@@ -8,6 +8,12 @@ Amazon 履歴 2014年まで.
 
 <div id="mokuji" first="2", last="3"></div>
 
+## ゲーム機
+
+### Nintendo Switch 大乱闘スマッシュブラザーズ SPECIALセット
+
+<a href="https://www.amazon.co.jp/%E4%BB%BB%E5%A4%A9%E5%A0%82-00790003-Nintendo-%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA-SPECIAL%E3%82%BB%E3%83%83%E3%83%88/dp/B07HC6GLP8/ref=as_li_ss_il?ie=UTF8&qid=1548041391&sr=8-1&keywords=%E4%BB%BB%E5%A4%A9%E5%A0%82+Nintendo+Nintendo+Switch+%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA+SPECIAL%E3%82%BB%E3%83%83%E3%83%88+%5BNintendo+Switch%E6%9C%AC%E4%BD%93%5D&linkCode=li3&tag=infirmaria112-22&linkId=e967b677c589f420736a7c72d9c02976&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HC6GLP8&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=B07HC6GLP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## マッサージ機
 
 ### [オムロン マッサージクッション ブラウン HM-341-BW](http://www.healthcare.omron.co.jp/product/etc/hm/hm-341.html)
@@ -40,9 +46,13 @@ Amazon 履歴 2014年まで.
 
 ## ドライヤー
 
+### IZUMI マイナスイオンドライヤー ホワイト DR-RM36-W
+
+<a href="https://www.amazon.co.jp/%E6%B3%89%E7%B2%BE%E5%99%A8%E8%A3%BD%E4%BD%9C%E6%89%80-DR-RM36-W-IZUMI-%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88/dp/B01M0XMEQP/ref=as_li_ss_il?ie=UTF8&qid=1548041357&sr=8-1&keywords=%E3%82%A4%E3%82%BA%E3%83%9F+IZUMI+DR-RM36-W&linkCode=li3&tag=infirmaria112-22&linkId=dd3879884735e059f4e79b71e34a77af&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0XMEQP&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=B01M0XMEQP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ### イズミ IZUMI DR-1175-A \[ドライヤー ブルー 小型ヘアドライヤー quick Dry\]
 
-2019/01/12 20:35 故障
+2019/01/12 20:35 故障 (後部プロペラ破損)
 
 <a href="https://www.amazon.co.jp/%E6%B3%89%E7%B2%BE%E5%99%A8%E8%A3%BD%E4%BD%9C%E6%89%80-DR-1175A-%E3%82%A4%E3%82%BA%E3%83%9F-%E3%82%A4%E3%82%BA%E3%83%9F%E3%83%98%E3%82%A2%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%96%E3%83%AB%E3%83%BC/dp/B000OXH3HG/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=infirmaria112-22&linkId=dc98cb22b1b0b910478f0ede85831790&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000OXH3HG&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=B000OXH3HG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

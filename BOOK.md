@@ -614,6 +614,12 @@
 <a href="http://www.amazon.co.jp/gp/product/4087796205/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4087796205&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4087796205&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=4087796205" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.amazon.co.jp/gp/product/408782389X/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=408782389X&linkCode=as2&tag=infirmaria112-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=408782389X&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=as2&o=9&a=408782389X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## 収納ケース
+
+### ナカバヤシ コミック・ビデオサイズ クリア CBC-101CRN
+
+<a href="https://www.amazon.co.jp/%E3%83%8A%E3%82%AB%E3%83%90%E3%83%A4%E3%82%B7-CBC-101CRN-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%93%E3%83%87%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%BA-%E3%82%AF%E3%83%AA%E3%82%A2/dp/B000UJB4E2/ref=as_li_ss_il?s=office-products&ie=UTF8&qid=1548042025&sr=8-1&keywords=CBC-101CRN&linkCode=li3&tag=infirmaria112-22&linkId=110568e88c3587f4b27a9bd5a3657ec1&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000UJB4E2&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&language=ja_JP&l=li3&o=9&a=B000UJB4E2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## その他書籍
 
 ### もえたん
