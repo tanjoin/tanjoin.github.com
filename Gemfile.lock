@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-paginate-v2
+  jekyll-readme-index
   jekyll-sitemap
   rake
   tzinfo-data

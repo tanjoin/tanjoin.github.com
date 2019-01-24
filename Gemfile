@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
+  gem "jekyll-readme-index"
 end
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
