@@ -1,6 +1,8 @@
 # Book
 
-<div id="mokuji" first="3" last="3"></div>
+<!-- js/mokuji.js -->
+<div class="mokuji" first="3" last="3"></div>
+<script src="js/mokuji.js"></script>
 
 ポンパレモールの購入履歴と Amazon.co.jp の購入履歴を記載しています.
 

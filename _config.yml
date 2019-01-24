@@ -1,0 +1,32 @@
+title: tanjoin
+description: ""
+lang: 'ja_JP'
+
+url: https://tanjoin.github.io
+
+baseurl: ""
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+google_analytics: true
+google_adsense: true
+bing_webmaster: true
+
+timezone: Asia/Tokyo
+
+future: false
+
+exclude: ["README.md", "CONTRIBUTING.md", ".travis.yml", "Gemfile", "Gemfile.lock", ".updated", "Rakefile", "vendor", "tmp", "lib", "LICENSE"]
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true

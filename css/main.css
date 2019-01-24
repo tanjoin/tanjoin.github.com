@@ -1,0 +1,39 @@
+
+/* Book */
+
+.mokuji {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.mokuji::-webkit-scrollbar {
+  display: none;
+}
+
+.mokuji-3 a {
+  text-decoration: none;
+  color: white;
+}
+
+.wrapper {
+  margin-left: 200px; /* Same as the width of the sidenav */
+}
+
+.mokuji > ul {
+  list-style-type: none;
+  padding: 0;
+  margin-right: 16px;
+  padding-bottom: 24px;
+}
+
+.mokuji > ul > li {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
