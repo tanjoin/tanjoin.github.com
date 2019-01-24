@@ -35,7 +35,7 @@
   - [D_POINT](POINT/D_POINT.md)
   - [JALマイレージ](POINT/JALマイレージ.md)
   - [NTT_GROUP_CARD_POINT](POINT/NTT_GROUP_CARD_POINT.md)
-  - [PONTA_POINT](POINT/PONTA_POINT.md)
+  - [Pontaポイント](POINT/Pontaポイント.md)
   - [T_POINT](POINT/T_POINT.md)
   - [VIEW_THANKS_POINT](POINT/VIEW_THANKS_POINT.md)
   - [VISA_CLASSIC_CARD_WORLD_POINT](POINT/VISA_CLASSIC_CARD_WORLD_POINT.md)
@@ -48,6 +48,7 @@
   - MONTHLY
     - [201803](SONG/MONTHLY/201803.md)
     - [201804](SONG/MONTHLY/201804.md)
+    - [201807](SONG/MONTHLY/201807.md)
   - RIREKI
     - [201612](SONG/RIREKI/201612.md)
     - [201703](SONG/RIREKI/201703.md)
@@ -55,17 +56,21 @@
     - [201802](SONG/RIREKI/201802.md)
     - [201803](SONG/RIREKI/201803.md)
     - [201804](SONG/RIREKI/201804.md)
+    - [201807](SONG/RIREKI/201807.md)
+- campaigns
+  - [waon](campaigns/waon.md)
 - おみやげ
   - [ねんりん家](おみやげ/ねんりん家.md)
-  - [東京カラメリゼ](おみやげ/東京カラメリゼ.md)
+  - [東京カラメリゼ](おみやげ/東京カラメリゼ.md)
   - [銀座-あけぼの](おみやげ/銀座-あけぼの.md)
 - ショッピング
   - [Amazon.co.jp](ショッピング/Amazon.co.jp.md)
   - [JAL](ショッピング/JAL.md)
   - [LAWSON](ショッピング/LAWSON.md)
-  - [Re.Ra.Ku (リラク)](ショッピング/Re.Ra.Ku %28リラク%29.md)
+  - [Re.Ra.Ku (リラク)](ショッピング/Re.Ra.Ku%20%28リラク%29.md)
   - [UNIQLO](ショッピング/UNIQLO.md)
   - [VJAギフトカード](ショッピング/VJAギフトカード.md)
+  - [dデリバリー](ショッピング/dデリバリー.md)
   - [てもみん](ショッピング/てもみん.md)
   - [カラオケ館](ショッピング/カラオケ館.md)
   - [キャンペーン](ショッピング/キャンペーン.md)
