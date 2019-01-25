@@ -38,4 +38,8 @@ install: true
 branches:
   only:
   - develop
-
+notifications:
+  slack:
+    secure: 2yVMp/Qavq2uEoPGtBSgfFl/KLr7wtDtu0nlJQtg2w9wrkFMpvu4SWSValmbR66pkgr7sj+fpr/Obbyd3YxnacR0695J5hBeJPOt9R0Sm7zgtb+zi5SUo2i/SkTkBgkHWGJCx6liOLmXgehHA3WCmy/5dPBgrU5N064HLl4fdUreyQ+aEXzNBQ8XCvspE49okNtT458eIqnSXGMBeZ4HpJYvZvc7F2GLgWOtoLVO2MqpIHBmvxDzLL1qJ8kAx8SIB6+A5LrTfc7xCcsi2kXrk1/U7IdUr6VfAZR/zDVLk5SiTRcFKbxdc9LY+2exXLqgikpLY6P3vIxFG5ThOZsVKtt/bNsPl9bzehVHvjdhnL8MRdKBvcApr+E+ymJC6+uANRmHsYX5fO2TstEF+xPJnmA83mgR1hwmVwejxip3PAPFghx1WGloz/oG28K9z0A5IdS9ZKr5Fv5/5UgPvdlovOCA5xREEPzG9p1diVTFg041YW/s2cL44pYGhPc7CdloS2rUK/zAq4WzekdoLhf0JvWOQzQ3fupQ5B5UpUu+PtWWPCfKS7xcnEXdMhBo1qrPj2eLFeSApJgObKlxA8M+BLYl4huTeuCuXMdLOvSZmSiVZZ5ShMst8gFZav8k59yFTKAK/YrL19mMBwg10AiJPDlGh2fpBxqlCbymGrvNsvA=
+    on_success: never
+    on_failure: always
