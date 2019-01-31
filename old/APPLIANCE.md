@@ -230,3 +230,12 @@ Amazon 履歴 2014年まで.
 ### [PLEX社製 地上デジタル対応USB接続ドングル型チューナー PX-S1UD](http://www.plex-net.co.jp/product/pxs1ud_feature.html)
 
 <a href="https://www.amazon.co.jp/gp/product/B006RQLNES/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=infirmaria112-22&linkId=be08d171d8a5c3c91e552c5df644a149" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006RQLNES&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=infirmaria112-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=infirmaria112-22&l=li3&o=9&a=B006RQLNES" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## エアコン
+
+### [SAP-ZK25R](https://panasonic.jp/sanyo-aircon/p-db/SAP-ZK25R.html) (備え付け)
+
+- [SAP-ZK25R(納入仕様書) (426.93 KB/PDF) - ダウンロード](https://panasonic.jp/p-db/contents/manualdl_02/1428358383540.pdf)
+- [取扱説明書](https://panasonic.jp/sanyo-aircon/p-db/SAP-ZK25R_manualdl.html)
+  - [空気清浄フィルター一覧表 (153.92 KB/PDF)](https://panasonic.jp/p-db/contents/manualdl/1428052092899.pdf)
+  - [取扱説明書 (2.74 MB/PDF)](https://panasonic.jp/p-db/contents/manualdl/1428052094230.pdf)
