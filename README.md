@@ -2,11 +2,9 @@
 
 ## Contents
 
-- [ANIME](ANIME.md)
-- [APPLIANCE](APPLIANCE.md)
-- [BOOK](BOOK.md)
-- [CONTRIBUTING](CONTRIBUTING.md)
-- [CREDITCARD](CREDITCARD.md)
-- [DEVELOPMENT](DEVELOPMENT.md)
-- [PRIVATE](PRIVATE.md)
-- [SONG](SONG.md)
+- [アニメ](アニメ.md)
+- [カラオケ](カラオケ.md)
+- [クレジットカード](クレジットカード.md)
+- [二郎](二郎.md)
+- [家電](家電.md)
+- [本](本.md)
