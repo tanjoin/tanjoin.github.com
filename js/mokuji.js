@@ -1,16 +1,13 @@
 // `<div id="mokuji" first="3" last="3">`` を置換する
 class Mokuji {
-  constructor(id) {
+  constructor() {
     this.className = "mokuji";
     this.DEFAULT_FIRST = 3;
     this.DEFAULT_LAST = 3;
-    if (id) {
-      this.id = id;
-    }
   }
 
   _getMokujiElements() {
-    return [...document.querySelectorAll('.mokuji')];
+    return [...document.querySelectorAll(`.${this.className}`)];
   }
 
   _getHeadings(query) {

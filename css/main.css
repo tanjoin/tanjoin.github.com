@@ -1,4 +1,29 @@
 
+table {
+  border: solid 1px #dddada;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: solid 1px #dddada;
+  border-collapse: collapse;
+  padding: 4px;
+}
+
+th {
+  border-bottom: solid 2px #dddada;
+}
+
+header {
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+h1#title a {
+  text-decoration: none;
+  color: black;
+}
+
 /* Book */
 
 .mokuji {
@@ -10,7 +35,8 @@
   left: 0;
   background-color: #111;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 10px;
+  padding-left: 20px;
 }
 
 .mokuji::-webkit-scrollbar {
@@ -22,8 +48,16 @@
   color: white;
 }
 
+.mokuji-2 a {
+  text-decoration: none;
+  color: white;
+  font-size: x-large;
+}
+
 .wrapper {
-  margin-left: 200px; /* Same as the width of the sidenav */
+  margin-left: 220px; /* Same as the width of the sidenav */
+  padding-left: 20px;
+  margin-right: 220px;
 }
 
 .mokuji > ul {
