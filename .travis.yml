@@ -1,0 +1,27 @@
+language: ruby
+rvm: 2.4.1
+before_install:
+- sudo apt-get -y --reinstall install imagemagick
+script:
+- mkdir -p tmp
+- pushd tmp
+- echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
+- git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.io.git
+- pushd tanjoin.github.io
+- git config user.name "tanjoin"
+- git config user.email "tanjoin@users.noreply.github.com"
+- popd
+- popd
+- bundle install --path vendor/bundle
+- JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.io/
+- pushd tmp
+- pushd tanjoin.github.io
+- git add --all
+- git commit -a -m "Update _site by Travis"
+- git push origin master
+- popd
+- popd
+install: true
+branches:
+  only:
+  - develop
