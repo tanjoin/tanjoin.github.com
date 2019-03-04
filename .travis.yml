@@ -13,9 +13,6 @@ script:
 - popd
 - popd
 - bundle install --path vendor/bundle
-- bundle exec rake -f ./lib/tasks/category.rake category:create
-- cp -r tmp/tanjoin.github.com/assets/thumbnail/ assets/thumbnail/
-- bundle exec rake -f ./lib/tasks/thumbnail.rake thumbnail:create
 - JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.com/
 - pushd tmp
 - pushd tanjoin.github.com
