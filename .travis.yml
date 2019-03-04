@@ -6,7 +6,7 @@ script:
 - mkdir -p tmp
 - pushd tmp
 - echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
-- git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.io.git
+- git clone --branch master --depth 1 git@github.com:tanjoin/tanjoin.github.com.git
 - pushd tanjoin.github.io
 - git config user.name "tanjoin"
 - git config user.email "tanjoin@users.noreply.github.com"
