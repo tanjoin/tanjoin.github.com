@@ -1,4 +1,4 @@
-#|ポイント履歴
+# ポイント履歴
 
 |ポイント反映日|利用場所|内容|ポイント|
 |:-:|:-:|:-:|:-:|
@@ -45,3 +45,8 @@
 |2018年2月22日|ラッキータッチ|2/22 ポイント交換|+2|
 |2018年2月9日|モバイルＳｕｉｃａ|2/8 チャージ|-100|
 |2018年2月9日|ラッキータッチ|2/9 ポイント交換|+5|
+
+<!-- jQuery && tablesorter -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<script src="../js/tablesort.js"></script>
