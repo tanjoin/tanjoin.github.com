@@ -1,10 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
-  $('table').each(function () {
-    $(this).tablesorter({
-      sortList: [
-        [0, 0],
-        [1, 0]
-      ]
+  [...document.querySelectorAll('table')].forEach((e) => {
+    new Tablesort(e, {
+      descending: true
     });
   });
 });

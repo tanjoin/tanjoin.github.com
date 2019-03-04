@@ -10,6 +10,5 @@
 |2018年8月24日|東京駅　黒塀横丁|8/23 お買い物|+7|
 
 <!-- jQuery && tablesorter -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.1.0/tablesort.min.js"></script>
 <script src="../js/tablesort.js"></script>
