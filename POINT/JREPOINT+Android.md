@@ -47,6 +47,5 @@
 |2018年2月9日|ラッキータッチ|2/9 ポイント交換|+5|
 
 <!-- jQuery && tablesorter -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.3/js/jquery.tablesorter.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.1.0/tablesort.min.js"></script>
 <script src="../js/tablesort.js"></script>
