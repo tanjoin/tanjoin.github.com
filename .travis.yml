@@ -6,16 +6,19 @@ script:
 - mkdir -p tmp
 - pushd tmp
 - echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
-- git clone --branch master --depth 1 git@github.com:tanjoin/tanjoin.github.com.git
-- pushd tanjoin.github.io
+- git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.com.git
+- pushd tanjoin.github.com
 - git config user.name "tanjoin"
 - git config user.email "tanjoin@users.noreply.github.com"
 - popd
 - popd
 - bundle install --path vendor/bundle
-- JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.io/
+- bundle exec rake -f ./lib/tasks/category.rake category:create
+- cp -r tmp/tanjoin.github.com/assets/thumbnail/ assets/thumbnail/
+- bundle exec rake -f ./lib/tasks/thumbnail.rake thumbnail:create
+- JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.com/
 - pushd tmp
-- pushd tanjoin.github.io
+- pushd tanjoin.github.com
 - git add --all
 - git commit -a -m "Update _site by Travis"
 - git push origin master
