@@ -14,7 +14,13 @@ class SideMenu {
       });
     }
 
-    [...document.querySelectorAll(`.${this.className}`)].forEach((e) => {
+    if ([...document.querySelectorAll('.sidebar')].length === 0) {
+      let sidebar = document.createElement('div');
+      sidebar.classList.add('sidebar');
+      document.body.appendChild(sidebar);
+    }
+
+    [...document.querySelectorAll('.sidebar')].forEach((e) => {
       let homeButton = document.createElement('a');
       homeButton.className = 'home btn btn-light';
       homeButton.href = "/";
