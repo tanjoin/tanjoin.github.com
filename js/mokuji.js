@@ -1,7 +1,11 @@
 // `<div id="mokuji" first="3" last="3">`` を置換する
 class Mokuji {
-  constructor() {
-    this.className = "mokuji";
+  constructor(className) {
+    if (!className) {
+      this.className = "mokuji";
+    } else {
+      this.className = className;
+    }
     this.DEFAULT_FIRST = 3;
     this.DEFAULT_LAST = 3;
   }
@@ -23,6 +27,7 @@ class Mokuji {
 
   _createList(headings) {
     let ul = document.createElement('ul');
+    ul.classList.add('mokuji-content');
     for (let i = 0; i < headings.length; i++) {
       const heading = headings[i];
       const escapeHeadingText = encodeURIComponent(heading.innerText.replace(/\n+$/g,''));
