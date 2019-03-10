@@ -11,24 +11,26 @@ class SideMenu {
     if (this.className !== 'sidebar') {
       [...document.querySelectorAll(`.${this.className}`)].forEach((e) => {
         e.classList.add('sidebar');
-
-        let homeButton = document.createElement('a');
-        homeButton.className = 'home btn btn-light';
-        homeButton.href = "/";
-        let home = document.createElement('i');
-        home.className = ('fas fa-home');
-        homeButton.appendChild(home);
-        e.appendChild(homeButton);
-
-        let leftButton = document.createElement('button');
-        leftButton.type = "button";
-        leftButton.className = 'dismiss btn btn-light';
-        let left = document.createElement('i');
-        left.className = "fas fa-arrow-left";
-        leftButton.appendChild(left);
-        e.appendChild(leftButton);
       });
     }
+
+    [...document.querySelectorAll(`.${this.className}`)].forEach((e) => {
+      let homeButton = document.createElement('a');
+      homeButton.className = 'home btn btn-light';
+      homeButton.href = "/";
+      let home = document.createElement('i');
+      home.className = ('fas fa-home');
+      homeButton.appendChild(home);
+      e.appendChild(homeButton);
+
+      let leftButton = document.createElement('button');
+      leftButton.type = "button";
+      leftButton.className = 'dismiss btn btn-light';
+      let left = document.createElement('i');
+      left.className = "fas fa-arrow-left";
+      leftButton.appendChild(left);
+      e.appendChild(leftButton);
+    });
 
     [...document.querySelectorAll('.dismiss')].forEach((e) => {
       e.addEventListener('click', () => {
