@@ -1,5 +1,9 @@
 # [T ポイント](https://tsite.jp/tp/index.pl?xpg=PCPT0102)
 
+<!-- js/mokuji.js -->
+<div class="mokuji" first="3" last="3"></div>
+<script src="js/mokuji.js"></script>
+
 ## ポイント履歴
 
 |反映日|利用日|ご利用内容詳細|内容|ポイント数|
