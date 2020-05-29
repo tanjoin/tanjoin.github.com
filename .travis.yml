@@ -12,7 +12,7 @@ script:
 - git config user.email "tanjoin@users.noreply.github.com"
 - popd
 - popd
-- bundle install --path vendor/bundle
+- bundle install
 - JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.com/
 - pushd tmp
 - pushd tanjoin.github.com
