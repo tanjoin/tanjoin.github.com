@@ -1,0 +1,46 @@
+name: Build GitHub Pages
+on:
+  push:
+    branches:
+      - develop
+jobs:
+  build-develop-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install ImageMagick
+        run: sudo apt-get -y --reinstall install imagemagick
+      - name: Create Temporary Directory
+        run: mkdir -p tmp
+      - name: Move Temporary Directory
+        run: pushd tmp
+      - name: Generate .netrc
+        run: echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
+      - name: Git Clone Master Branch
+        run: git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.com.git
+      - name: Move Master Source Directory
+        run: pushd tanjoin.github.com
+      - name: Setting Git Config
+        run: |
+          git config user.name "tanjoin"
+          git config user.email "tanjoin@users.noreply.github.com"
+      - name: Move Default Directory
+        run: |
+          popd
+          popd
+      - name: Bundle Install
+        run: bundle install
+      - name: Build Jekyll
+        run: JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.com/
+      - name: Move Master Source Directory
+        run: |
+          pushd tmp
+          pushd tanjoin.github.com
+      - name: Git Push for Master Branch
+        run: |
+          git add --all
+          git commit -a -m "Update _site by Travis"
+          git push origin master
+      - name: Move Default Directory
+        run: |
+          popd
+          popd
