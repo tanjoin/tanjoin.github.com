@@ -11,13 +11,13 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6
+          ruby-version: 2.7.2
       - name: Build Jekyll
         run: | 
           sudo apt-get -y --reinstall install imagemagick
           mkdir -p tmp
           pushd tmp
-          echo -e "machine github.com\n  login $CI_USER_TOKEN" >> ~/.netrc
+          echo -e "machine github.com\n  login ${{ secrets.GITHUB_TOKEN }}" >> ~/.netrc
           git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.com.git
           pushd tanjoin.github.com
           git config user.name "tanjoin"
