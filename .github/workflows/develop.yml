@@ -17,7 +17,7 @@ jobs:
           sudo apt-get -y --reinstall install imagemagick
           mkdir -p tmp
           pushd tmp
-          echo -e "machine github.com\n  login ${{ secrets.CI_USER_TOKEN }}" >> ~/.netrc
+          echo -e "machine github.com\n  login ${{ secrets.GITHUB_TOKEN }}" >> ~/.netrc
           git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.com.git
           pushd tanjoin.github.com
           git config user.name "tanjoin"
