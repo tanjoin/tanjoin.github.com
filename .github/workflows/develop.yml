@@ -31,10 +31,13 @@ jobs:
           sudo apt-get -y --reinstall install imagemagick
           JEKYLL_ENV=production bundle exec jekyll build --destination master
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
           cd master
           git add --all
           if ! git diff --cached --quiet; then
