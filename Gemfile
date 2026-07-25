@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
   gem "jekyll-readme-index"
+  gem "jekyll-seo-tag"
 end
 
 # Rubyの標準ライブラリ（Default gems）から分離されたため、明示的に必要なgem
