@@ -29,8 +29,7 @@ jobs:
       - name: Build Jekyll
         run: |
           sudo apt-get -y --reinstall install imagemagick
-          JEKYLL_ENV=production bundle exec jekyll build
-          rsync -av --delete _site/ master/
+          JEKYLL_ENV=production bundle exec jekyll build --destination master
 
       - name: Commit and push changes
         run: |
