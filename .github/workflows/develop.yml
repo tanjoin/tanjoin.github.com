@@ -53,7 +53,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           cd master
-          git checkout master || git checkout -b master origin/master
           git add --all
           if ! git diff --cached --quiet; then
             git commit -m "Update site content by GitHub Action [skip ci]"
@@ -61,3 +60,4 @@ jobs:
           else
             echo "No changes to commit"
           fi
+          
