@@ -7,29 +7,26 @@ jobs:
   build-develop-branch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7.2
+      - name: Checkout master branch
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          path: master
+          fetch-depth: 0
       - name: Build Jekyll
-        run: | 
+        run: |
           sudo apt-get -y --reinstall install imagemagick
-          mkdir -p tmp
-          pushd tmp
-          echo -e "machine github.com\nlogin tanjoin\npassword ${{ secrets.CI_USER_TOKEN }}" >> ~/.netrc
-          git clone --branch master --depth 1 https://github.com/tanjoin/tanjoin.github.com.git
-          pushd tanjoin.github.com
-          git config user.name "tanjoin"
-          git config user.email "tanjoin@users.noreply.github.com"
-          popd
-          popd
           bundle install
-          JEKYLL_ENV=production bundle exec jekyll build --destination tmp/tanjoin.github.com/
-          pushd tmp
-          pushd tanjoin.github.com
+          JEKYLL_ENV=production bundle exec jekyll build --destination master
+          pushd master
           git add --all
-          git commit -a -m "Update _site by GitHub Action"
+          git commit -m "Update _site by GitHub Action" || true
           git push origin master
-          popd
           popd
