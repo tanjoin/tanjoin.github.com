@@ -93,6 +93,7 @@ DEPENDENCIES
   jekyll-readme-index
   jekyll-sitemap
   rake
+  webrick
 
 BUNDLED WITH
   4.0.17
