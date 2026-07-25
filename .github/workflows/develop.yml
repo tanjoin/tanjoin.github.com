@@ -19,6 +19,18 @@ jobs:
         with:
           bundler-cache: true
 
+      - name: Inject Front Matter into Markdown files
+        run: |
+          find . -name "*.md" -not -path "*/.*" -not -path "./vendor/*" -not -path "./master/*" | while read file; do
+            if ! grep -q "^---" "$file"; then
+              echo "Injecting Front Matter into: $file"
+              # 一時ファイルにFront Matterと元の内容を書き出す
+              printf "---\nlayout: default\n---\n\n" > temp_file
+              cat "$file" >> temp_file
+              mv temp_file "$file"
+            fi
+          done
+
       - name: Checkout master branch
         uses: actions/checkout@v4
         with:
@@ -29,14 +41,21 @@ jobs:
       - name: Build Jekyll
         run: |
           sudo apt-get -y --reinstall install imagemagick
-          JEKYLL_ENV=production bundle exec jekyll build --destination master
+          # _siteに一時ビルド
+          JEKYLL_ENV=production bundle exec jekyll build
+          # masterディレクトリへ反映
+          rsync -av --delete _site/ master/
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          pushd master
+          cd master
           git add --all
-          git commit -m "Update _site by GitHub Action [skip ci]" || true
-          git push origin master
-          popd
+          # 変更がある場合のみコミット
+          if ! git diff --cached --quiet; then
+            git commit -m "Update site content by GitHub Action [skip ci]"
+            git push origin master
+          else
+            echo "No changes to commit"
+          fi
