@@ -53,6 +53,15 @@
 
 <p>リストは<a href="https://chan-noren-kumiai.com/">ここ</a>から。</p>
 
+<!-- 並び替えや表示フィルターの select を設置する -->
+<p><select id="filter-select">
+  <option value="all">すべて</option>
+  <option value="visited">訪問済み</option>
+  <option value="not-visited">未訪問</option>
+  <option value="first">名前順(A-Z)</option>
+  <option value="last">名前順(Z-A)</option>
+</select></p>
+
 <ul class="task-list">
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />神田 ちえちゃんラーメン</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />新宿 えっちゃんラーメン。</li>
@@ -91,6 +100,47 @@
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なぎちゃんラーメン江東橋二丁目店</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なぎちゃんラーメン青物横丁店</li>
 </ul>
+
+<style>
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
+  .task-list li {
+    margin-bottom: 5px;
+  }
+  .task-list input[type="checkbox"] {
+    margin-right: 10px;
+  }
+</style>
+
+<script>
+  document.getElementById('filter-select').addEventListener('change', function() {
+    const filterValue = this.value;
+    const taskListItems = document.querySelectorAll('.task-list li');
+
+    taskListItems.forEach(item => {
+      const checkbox = item.querySelector('input[type="checkbox"]');
+      const isChecked = checkbox.checked;
+
+      if (filterValue === 'all') {
+        item.style.display = '';
+      } else if (filterValue === 'visited' && isChecked) {
+        item.style.display = '';
+      } else if (filterValue === 'not-visited' && !isChecked) {
+        item.style.display = '';
+      } else if (filterValue === 'first') {
+        // Sort by name A-Z
+        // Implement sorting logic here
+      } else if (filterValue === 'last') {
+        // Sort by name Z-A
+        // Implement sorting logic here
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+</script>
 
 
         </div>
