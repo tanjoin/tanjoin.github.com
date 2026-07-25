@@ -15,3 +15,4 @@ end
 
 gem "csv"
 gem "rake"
+gem "bigdecimal"
