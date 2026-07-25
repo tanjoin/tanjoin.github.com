@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-readme-index"
 end
 
+gem "csv"
 gem "rake"
