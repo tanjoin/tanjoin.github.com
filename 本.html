@@ -959,7 +959,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const hasImgLinks = document.querySelectorAll('a:has(img)');
+    const hasImgLinks = [...document.querySelectorAll('a:has(img)')];
     hasImgLinks.filter((link) => {
       return link.href.startsWith('https://link.amazon');
     }).forEach((link) => {
